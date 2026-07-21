@@ -1,0 +1,39 @@
+name: Soccer Rating Scraper
+
+on:
+  schedule:
+    # Ogni giorno alle 08:00 UTC (~09:00/10:00 ora italiana a seconda dell'ora legale).
+    # Modifica l'espressione cron qui sotto per cambiare frequenza/orario:
+    # https://crontab.guru/ per costruirla comodamente.
+    - cron: '0 8 * * *'
+  workflow_dispatch: {}   # permette anche di lanciarlo a mano dal tab "Actions" su GitHub
+
+# Serve per permettere al workflow di fare push dei risultati nel repo
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui lo scraper su tutte le partite in matches.csv
+        run: python soccer_rating_scraper.py --batch matches.csv
+
+      - name: Commit e push dei risultati (cache + storico)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Aggiornamento rating $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
