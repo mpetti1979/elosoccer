@@ -213,11 +213,13 @@ def run_batch(input_csv: str, output_csv: str, max_teams: Optional[int] = None,
         home = r["home"].strip()
         away = r["away"].strip()
         date = parse_sheet_date(r["data"])
-        try:
-            elo_h = float(r.get("elo_h", 0) or 0)
-            elo_a = float(r.get("elo_a", 0) or 0)
-        except ValueError:
-            elo_h = elo_a = 0.0
+        def _to_float(v):
+            try:
+                return float(str(v).replace(",", "").strip())
+            except ValueError:
+                return 0.0
+        elo_h = _to_float(r.get("elo_h", 0))
+        elo_a = _to_float(r.get("elo_a", 0))
 
         out = dict(r)
         if date is None or home not in history_by_team:
