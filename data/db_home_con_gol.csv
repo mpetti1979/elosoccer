@@ -1,66 +1,66 @@
 data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
-22/10/2024,argentina - nacional b,all boys,agropecuario,1679.38,1567.66,,,n/d,nessuna partita con quella data sulla pagina
+22/10/2024,argentina - nacional b,all boys,agropecuario,1679.38,1567.66,,,n/d,data giusta ma nessun avversario simile a 'agropecuario'
 22/10/2024,brasile - serie b,chapecoense,goias,1754.44,1718.59,,,n/d,nessuna partita con quella data sulla pagina
 22/10/2024,germania - liga 3,erzgebirge aue,cottbus,1923.04,1885.05,,,n/d,nessuna partita con quella data sulla pagina
-26/10/2024,romania - liga 1,petrolul ploiest,csm poltehnica iasi,1888.16,1767.74,,,n/d,data giusta ma nessun avversario simile a 'csm poltehnica iasi'
-26/10/2024,turchia - super lig,kasimpasa,samsunspor,2057.52,2018.01,1,4,bassa,rating diverso di 27.8 punti totali - verificare a mano
-26/10/2024,scozia - championship,hamilton,morton,1639.39,1585.51,,,n/d,data giusta ma nessun avversario simile a 'morton'
+26/10/2024,romania - liga 1,petrolul ploiest,csm poltehnica iasi,1888.16,1767.74,3,1,bassa,rating diverso di 70.9 punti totali - verificare a mano
+26/10/2024,turchia - super lig,kasimpasa,samsunspor,2057.52,2018.01,1,4,media,rating diverso di 27.8 punti (plausibile pre/post match)
+26/10/2024,scozia - championship,hamilton,morton,1639.39,1585.51,,,n/d,nessuna partita con quella data sulla pagina
 26/10/2024,marocco - gnf 1,husa agadir,codm meknes,1679.7,1582.49,,,n/d,data giusta ma nessun avversario simile a 'codm meknes'
 26/10/2024,polonia - liga 1,termalica bb nieciecza,arka gdynia,1861.76,1844.54,,,n/d,nessuna partita con quella data sulla pagina
 26/10/2024,brasile - serie a,athletico paranaense,cruzeiro,1935.08,1852.12,,,n/d,data giusta ma nessun avversario simile a 'cruzeiro'
-27/10/2024,turchia - 1 lig,amed sk,pendikspor,1907.43,1848.39,0,1,bassa,rating diverso di 31.0 punti totali - verificare a mano
+27/10/2024,turchia - 1 lig,amed sk,pendikspor,1907.43,1848.39,0,1,media,rating diverso di 31.0 punti (plausibile pre/post match)
 27/10/2024,marocco - gnf 2,waf widad fes,jsm massira,1504.83,1478.05,,,n/d,data giusta ma nessun avversario simile a 'jsm massira'
-28/10/2024,polonia - liga 1,gks tychy,znicz pruszkow,1737.7,1696.63,,,n/d,nessuna partita con quella data sulla pagina
+28/10/2024,polonia - liga 1,gks tychy,znicz pruszkow,1737.7,1696.63,,,n/d,data giusta ma nessun avversario simile a 'znicz pruszkow'
 29/10/2024,francia - ligue 2,sc bastia,rodez,1906.77,1797.57,2,2,bassa,rating diverso di 62.7 punti totali - verificare a mano
-1/11/2024,spagna - la liga,alaves,maiorca,2166.69,2098.79,,,n/d,data giusta ma nessun avversario simile a 'maiorca'
-1/11/2024,francia - ligue 1,lilla,lione,2259.0,2182.17,,,n/d,nessuna partita con quella data sulla pagina
-2/11/2024,svezia - superettan,landskorna,degerfors,1964.61,1923.24,1,1,bassa,rating diverso di 55.9 punti totali - verificare a mano
-2/11/2024,uk - championship,stoke,derby,2032.98,1958.54,,,n/d,data giusta ma nessun avversario simile a 'derby'
+1/11/2024,spagna - la liga,alaves,maiorca,2166.69,2098.79,1,0,bassa,rating diverso di 140.6 punti totali - verificare a mano
+1/11/2024,francia - ligue 1,lilla,lione,2259.0,2182.17,,,n/d,data giusta ma nessun avversario simile a 'lione'
+2/11/2024,svezia - superettan,landskorna,degerfors,1964.61,1923.24,1,1,media,rating diverso di 55.9 punti (plausibile pre/post match)
+2/11/2024,uk - championship,stoke,derby,2032.98,1958.54,2,1,bassa,rating diverso di 102.2 punti totali - verificare a mano
 2/11/2024,croazia - hnl,nk lokomotiva zagabria,slaven belupo,1897.61,1786.34,,,n/d,data giusta ma nessun avversario simile a 'slaven belupo'
-2/11/2024,italia - serie b,spezia,modena,1957.92,1853.0,1,0,bassa,rating diverso di 59.8 punti totali - verificare a mano
-3/11/2024,argentina - liga profesional,belgrano,defensa y justicia,1957.92,1853.0,,,n/d,nessuna partita con quella data sulla pagina
-3/11/2024,paraguay - division profesional,sportivo luqueno,sportivo trinidense,2032.98,1958.54,,,n/d,data giusta ma nessun avversario simile a 'sportivo trinidense'
-3/11/2024,danimarca - superligaen,midtjylland,brondby,1897.61,1786.34,,,n/d,data giusta ma nessun avversario simile a 'brondby'
+2/11/2024,italia - serie b,spezia,modena,1957.92,1853.0,1,0,media,rating diverso di 59.8 punti (plausibile pre/post match)
+3/11/2024,argentina - liga profesional,belgrano,defensa y justicia,1957.92,1853.0,,,n/d,data giusta ma nessun avversario simile a 'defensa y justicia'
+3/11/2024,paraguay - division profesional,sportivo luqueno,sportivo trinidense,2032.98,1958.54,,,n/d,nessuna partita con quella data sulla pagina
+3/11/2024,danimarca - superligaen,midtjylland,brondby,1897.61,1786.34,1,5,bassa,rating diverso di 616.6 punti totali - verificare a mano
 3/11/2024,italia - serie b,cosenza,salernitana,1957.92,1853.0,,,n/d,data giusta ma nessun avversario simile a 'salernitana'
 3/11/2024,italia - serie b,cremonese,pisa,1957.92,1853.0,,,n/d,data giusta ma nessun avversario simile a 'pisa'
-3/11/2024,marocco - gnf 2,youssufia berrechid,stade marocain du rabat,2032.98,1958.54,,,n/d,data giusta ma nessun avversario simile a 'stade marocain du rabat'
-3/11/2024,romania - liga 1,cs u craiova,fcsb,1897.61,1786.34,,,n/d,nessuna partita con quella data sulla pagina
-3/11/2024,polonia - ekstraklasa,zaglebie lubin,slask wroclaw,1907.6,1878.3,3,0,bassa,rating diverso di 17.3 punti totali - verificare a mano
+3/11/2024,marocco - gnf 2,youssufia berrechid,stade marocain du rabat,2032.98,1958.54,,,n/d,nessuna partita con quella data sulla pagina
+3/11/2024,romania - liga 1,cs u craiova,fcsb,1897.61,1786.34,,,n/d,data giusta ma nessun avversario simile a 'fcsb'
+3/11/2024,polonia - ekstraklasa,zaglebie lubin,slask wroclaw,1907.6,1878.3,3,0,media,rating diverso di 17.3 punti (plausibile pre/post match)
 3/11/2024,spagna - la liga,celta vigo,getafe,2180.82,2073.29,1,0,bassa,rating diverso di 115.4 punti totali - verificare a mano
 3/11/2024,uk - championship,plymouth,portsmouth,1917.6,1882.87,,,n/d,data giusta ma nessun avversario simile a 'portsmouth'
-3/11/2024,brasile - serie a,bahia,san paolo,1897.61,1786.34,,,n/d,nessuna partita con quella data sulla pagina
+3/11/2024,brasile - serie a,bahia,san paolo,1897.61,1786.34,,,n/d,data giusta ma nessun avversario simile a 'san paolo'
 3/11/2024,costa rica - primera division,cartagines,municipal liberia,1907.6,1878.3,,,n/d,nessuna partita con quella data sulla pagina
-3/11/2024,guatemala - liga nacional,malacateco,csd comunicaciones,1731.35,1648.65,,,n/d,data giusta ma nessun avversario simile a 'csd comunicaciones'
-3/11/2024,honduras - lega nazionale,juticalpa,lobos upnfm,1486.37,1434.39,,,n/d,nessuna partita con quella data sulla pagina
-8/11/2024,germania - bundesliga 2,norimberga,kaiserslautern,2061.01,1987.84,,,n/d,nessuna partita con quella data sulla pagina
+3/11/2024,guatemala - liga nacional,malacateco,csd comunicaciones,1731.35,1648.65,,,n/d,nessuna partita con quella data sulla pagina
+3/11/2024,honduras - lega nazionale,juticalpa,lobos upnfm,1486.37,1434.39,,,n/d,data giusta ma nessun avversario simile a 'lobos upnfm'
+8/11/2024,germania - bundesliga 2,norimberga,kaiserslautern,2061.01,1987.84,,,n/d,data giusta ma nessun avversario simile a 'kaiserslautern'
 8/11/2024,francia - national,nimes,us quevilly,1672.18,1599.0,,,n/d,nessuna partita con quella data sulla pagina
 9/11/2024,argentina - primera b metropolitana,excursionistas,ferrocarril midland,1546.04,1467.52,,,n/d,data giusta ma nessun avversario simile a 'ferrocarril midland'
 9/11/2024,italia - serie b,Brescia,Cosenza,1848.08,1799.96,,,n/d,data giusta ma nessun avversario simile a 'Cosenza'
 9/11/2024,italia - serie b,Modena,Carrarese,1914.53,1783.9,,,n/d,data giusta ma nessun avversario simile a 'Carrarese'
 10/11/2024,danimarca - 2 divisione,skive,frem,1679.62,1655.01,,,n/d,data giusta ma nessun avversario simile a 'frem'
 10/11/2024,iran - 1 divisione,pars jonoubi jam,paykan,1586.6,1525.42,,,n/d,nessuna partita con quella data sulla pagina
-10/11/2024,argentina - liga profesional,lanus,ca platense,1870.09,1783.68,,,n/d,nessuna partita con quella data sulla pagina
-10/11/2024,cile - primera b,club deportes santa cruz,rangers de talca,1494.28,1490.84,,,n/d,nessuna partita con quella data sulla pagina
+10/11/2024,argentina - liga profesional,lanus,ca platense,1870.09,1783.68,,,n/d,data giusta ma nessun avversario simile a 'ca platense'
+10/11/2024,cile - primera b,club deportes santa cruz,rangers de talca,1494.28,1490.84,,,n/d,data giusta ma nessun avversario simile a 'rangers de talca'
 10/11/2024,colombia - primera b,union magdalena,huila,1708.71,1552.53,,,n/d,data giusta ma nessun avversario simile a 'huila'
 10/11/2024,colombia - primera b,america de cali,once caldas,1796.54,1670.82,,,n/d,data giusta ma nessun avversario simile a 'once caldas'
 10/11/2024,italia - serie b,Benevento ,Avellino ,1794.17,1722.32,,,n/d,data giusta ma nessun avversario simile a 'Avellino'
-10/11/2024,argentina - liga profesional,lanus,defensa y justicia,1841.05,1770.61,,,n/d,nessuna partita con quella data sulla pagina
+10/11/2024,argentina - liga profesional,lanus,defensa y justicia,1841.05,1770.61,,,n/d,data giusta ma nessun avversario simile a 'defensa y justicia'
 26/11/2024,uk - championship,burnley,coventry,2129.81,2054.19,2,0,bassa,rating diverso di 77.3 punti totali - verificare a mano
-26/11/2024,uk - championship,hull,sheffield wednesday,2028.11,1995.3,,,n/d,nessuna partita con quella data sulla pagina
+26/11/2024,uk - championship,hull,sheffield wednesday,2028.11,1995.3,0,2,media,rating diverso di 57.5 punti (plausibile pre/post match)
 28/11/2024,colombia - primera a,deportes tolima,america de cali,1887.83,1785.25,,,n/d,nessuna partita con quella data sulla pagina
 28/11/2024,brasile - serie a,cruzeiro,gremio,1974.66,1867.45,,,n/d,nessuna partita con quella data sulla pagina
 29/11/2024,uk - championship,sheffield united,sunderland,2129.77,2024.85,1,0,bassa,rating diverso di 62.5 punti totali - verificare a mano
 30/11/2024,spagna - segunda division,cadice,deportivo la coruna,1966.56,1873.63,,,n/d,data giusta ma nessun avversario simile a 'deportivo la coruna'
-30/11/2024,egitto - 1 divisione,ceramica cleopatra,modern sport fc,1818.5,1780.48,,,n/d,nessuna partita con quella data sulla pagina
+30/11/2024,egitto - 1 divisione,ceramica cleopatra,modern sport fc,1818.5,1780.48,,,n/d,data giusta ma nessun avversario simile a 'modern sport fc'
 30/11/2024,italia - serie b,sampdoria,catanzaro,1950.74,1834.84,3,3,bassa,rating diverso di 77.1 punti totali - verificare a mano
 1/12/2024,grecia - superleague 2,ilioupoli,aek atene b,1621.25,1505.23,,,n/d,nessuna partita con quella data sulla pagina
-1/12/2024,danimarca - superligaen,lyngby,sonderjyske,1929.51,1902.74,0,2,bassa,rating diverso di 34.6 punti totali - verificare a mano
-1/12/2024,Italia - serie b,pisa,Cosenza,1934.95,1830.04,,,n/d,nessuna partita con quella data sulla pagina
+1/12/2024,danimarca - superligaen,lyngby,sonderjyske,1929.51,1902.74,0,2,media,rating diverso di 34.6 punti (plausibile pre/post match)
+1/12/2024,Italia - serie b,pisa,Cosenza,1934.95,1830.04,2,2,media,rating diverso di 50.4 punti (plausibile pre/post match)
 1/12/2024,marocco - gnf 2,kac kenitra,chabab atlas khenifra,1547.86,1459.96,,,n/d,data giusta ma nessun avversario simile a 'chabab atlas khenifra'
 1/12/2024,brasile - serie a,gremio,san paolo,1940.61,1888.44,,,n/d,nessuna partita con quella data sulla pagina
 1/12/2024,Marocco - gnf 1,mas fes,renaissance zemamra,1725.75,1651.31,,,n/d,nessuna partita con quella data sulla pagina
 2/12/2024,algeria - 1 divisione,js saoura,js kabylie,1835.61,1765.18,,,n/d,data giusta ma nessun avversario simile a 'js kabylie'
-2/12/2024,argentina - liga profesional,ca talleres de cordoba,huracan,1936.85,1790.41,,,n/d,nessuna partita con quella data sulla pagina
+2/12/2024,argentina - liga profesional,ca talleres de cordoba,huracan,1936.85,1790.41,,,n/d,data giusta ma nessun avversario simile a 'huracan'
 3/12/2024,uk - league 2,walsall,notts county,1915.67,1832.96,,,n/d,nessuna partita con quella data sulla pagina
 5/12/2024,honduras - lega nazionale,genesis de comayagua,real espana,1611.94,1578.42,,,n/d,nessuna partita con quella data sulla pagina
 5/12/2024,campionato d'iraq,al talaba,al karkh,1688.24,1566.03,,,n/d,nessuna partita con quella data sulla pagina
@@ -69,93 +69,93 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 6/12/2024,marocco - gnf 1,fus rabat,difaa el jadida,1818.03,1697.62,,,n/d,data giusta ma nessun avversario simile a 'difaa el jadida'
 6/12/2024,italia - serie c,trento,novara,1580.07,1535.11,,,n/d,data giusta ma nessun avversario simile a 'novara'
 7/12/2024,portogallo - segunda liga,cd feirense,penafiel,1751.78,1724.47,,,n/d,data giusta ma nessun avversario simile a 'penafiel'
-7/12/2024,uk - league 2,crewe,bradford,1869.13,1797.36,,,n/d,nessuna partita con quella data sulla pagina
-7/12/2024,uk - championship,luton,swansea,2065.13,2013.27,1,1,bassa,rating diverso di 35.5 punti totali - verificare a mano
-7/12/2024,italia - serie c,us pergolettese,renate,1539.0,1489.02,,,n/d,nessuna partita con quella data sulla pagina
-7/12/2024,italia - serie c,acr messina,foggia,1559.13,1512.95,,,n/d,nessuna partita con quella data sulla pagina
-8/12/2024,polonia - ekstraklasa,piast gliwice,cracovia krakow,1940.89,1934.34,0,0,bassa,rating diverso di 35.6 punti totali - verificare a mano
-8/12/2024,norvegia - eliteserien,haugesund,moss,1899.57,1756.48,,,n/d,data giusta ma nessun avversario simile a 'moss'
-8/12/2024,italia - serie b,catanzaro,brescia,1850.76,1818.5,2,1,bassa,rating diverso di 20.4 punti totali - verificare a mano
-8/12/2024,cechia - 1 liga,slovan liberec,fk teplice,1968.73,1843.81,3,0,bassa,rating diverso di 58.5 punti totali - verificare a mano
-8/12/2024,marocco - gnf 2,oc khouribga,waf widad fes,1532.94,1463.86,,,n/d,nessuna partita con quella data sulla pagina
+7/12/2024,uk - league 2,crewe,bradford,1869.13,1797.36,,,n/d,data giusta ma nessun avversario simile a 'bradford'
+7/12/2024,uk - championship,luton,swansea,2065.13,2013.27,1,1,media,rating diverso di 35.5 punti (plausibile pre/post match)
+7/12/2024,italia - serie c,us pergolettese,renate,1539.0,1489.02,,,n/d,data giusta ma nessun avversario simile a 'renate'
+7/12/2024,italia - serie c,acr messina,foggia,1559.13,1512.95,,,n/d,data giusta ma nessun avversario simile a 'foggia'
+8/12/2024,polonia - ekstraklasa,piast gliwice,cracovia krakow,1940.89,1934.34,0,0,media,rating diverso di 35.6 punti (plausibile pre/post match)
+8/12/2024,norvegia - eliteserien,haugesund,moss,1899.57,1756.48,2,0,bassa,rating diverso di 105.4 punti totali - verificare a mano
+8/12/2024,italia - serie b,catanzaro,brescia,1850.76,1818.5,2,1,media,rating diverso di 20.4 punti (plausibile pre/post match)
+8/12/2024,cechia - 1 liga,slovan liberec,fk teplice,1968.73,1843.81,3,0,media,rating diverso di 58.5 punti (plausibile pre/post match)
+8/12/2024,marocco - gnf 2,oc khouribga,waf widad fes,1532.94,1463.86,,,n/d,data giusta ma nessun avversario simile a 'waf widad fes'
 8/12/2024,spagna - la liga,osasuna,alaves,2176.21,2099.46,2,2,bassa,rating diverso di 107.7 punti totali - verificare a mano
 8/12/2024,spagna - segunda division,burgos,eldense,1893.22,1784.61,1,0,bassa,rating diverso di 116.5 punti totali - verificare a mano
-8/12/2024,grecia - superleague 1,lamia,panetolikos,1845.02,1777.11,,,n/d,data giusta ma nessun avversario simile a 'panetolikos'
+8/12/2024,grecia - superleague 1,lamia,panetolikos,1845.02,1777.11,,,n/d,nessuna partita con quella data sulla pagina
 9/12/2024,argentina - liga profesional,argentinos jrs,san lorenzo,1901.65,1756.36,,,n/d,data giusta ma nessun avversario simile a 'san lorenzo'
 9/12/2024,italia - serie c,perugia,campobasso,1625.62,1578.56,,,n/d,nessuna partita con quella data sulla pagina
-11/12/24,uk - championship,hull,watford,2013.46,1978.74,,,n/d,nessuna partita con quella data sulla pagina
+11/12/24,uk - championship,hull,watford,2013.46,1978.74,1,1,bassa,rating diverso di 62.9 punti totali - verificare a mano
 11/12/24,uk - championship,qpr,oxford utd,1949.24,1824.43,,,n/d,nessuna partita con quella data sulla pagina
-13/12/24,uk - championship,derby,portsmouth,2005.43,1900.52,,,n/d,nessuna partita con quella data sulla pagina
-14/12/24,uk - league 1,huddersfield,lincoln city,2074.2,1923.64,2,2,bassa,rating diverso di 48.8 punti totali - verificare a mano
-14/12/24,uk - league 2,afc wimbledon,doncaster,1915.07,1905.15,1,0,bassa,rating diverso di 52.7 punti totali - verificare a mano
+13/12/24,uk - championship,derby,portsmouth,2005.43,1900.52,4,0,media,rating diverso di 44.2 punti (plausibile pre/post match)
+14/12/24,uk - league 1,huddersfield,lincoln city,2074.2,1923.64,2,2,media,rating diverso di 48.8 punti (plausibile pre/post match)
+14/12/24,uk - league 2,afc wimbledon,doncaster,1915.07,1905.15,1,0,media,rating diverso di 52.7 punti (plausibile pre/post match)
 14/12/24,scozia - championship,airdrieonians,morton,1598.02,1580.46,,,n/d,nessuna partita con quella data sulla pagina
 14/12/24,scozia - premiership,motherwell,dundee utd,1840.5,1805.45,4,3,bassa,rating diverso di 78.3 punti totali - verificare a mano
-14/12/24,spagna - segunda division,cadiz,albacete balompie,1930.98,1875.3,,,n/d,nessuna partita con quella data sulla pagina
+14/12/24,spagna - segunda division,cadiz,albacete balompie,1930.98,1875.3,,,n/d,data giusta ma nessun avversario simile a 'albacete balompie'
 14/12/24,spagna - segunda division,eibar,real Saragozza,1928.34,1883.87,2,1,bassa,rating diverso di 93.5 punti totali - verificare a mano
-14/12/24,Romania - liga 1,universitatea cluji,petorlul ploiesti,1986.96,1857.63,4,1,bassa,rating diverso di 41.7 punti totali - verificare a mano
+14/12/24,Romania - liga 1,universitatea cluji,petorlul ploiesti,1986.96,1857.63,4,1,media,rating diverso di 41.7 punti (plausibile pre/post match)
 15/12/24,indonesia - liga 1,bali united,persija jakarta,1788.99,1695.06,,,n/d,data giusta ma nessun avversario simile a 'persija jakarta'
 16/12/24,indonesia - liga 1,persik kediri,arema fc,1705.43,1689.33,,,n/d,nessuna partita con quella data sulla pagina
-20/12/24,germania - bundesliga 2,fortuna dusseldorf,magdeburg,2109.07,2035.89,2,5,bassa,rating diverso di 37.2 punti totali - verificare a mano
+20/12/24,germania - bundesliga 2,fortuna dusseldorf,magdeburg,2109.07,2035.89,2,5,media,rating diverso di 37.2 punti (plausibile pre/post match)
 20/12/24,italia - serie b,salernitana,brescia,1882.66,1810.89,,,n/d,nessuna partita con quella data sulla pagina
 20/12/24,italia - serie c,lucchese,pineto,1581.2,1498.49,,,n/d,data giusta ma nessun avversario simile a 'pineto'
 20/12/24,uk - league 2,crewe,colchester,1853.35,1764.61,,,n/d,nessuna partita con quella data sulla pagina
 21/12/24,uk - league 2,barrow,fleetwood town,1884.6,1828.92,,,n/d,nessuna partita con quella data sulla pagina
 21/12/24,italia - serie c,renate,pro patria,1519.07,1479.57,,,n/d,nessuna partita con quella data sulla pagina
 21/12/24,marocco - gnf 1,ittihad tanger,difaa el jadida,1754.6,1727.29,,,n/d,nessuna partita con quella data sulla pagina
-21/12/24,uk - league 1,barnsley,leyton orient,2015.64,1927.75,0,4,bassa,rating diverso di 30.3 punti totali - verificare a mano
-22/12/24,romania - liga 1,petrolul ploiest,fc unirea 2004 slobozia,1873.63,1751.47,2,1,bassa,rating diverso di 33.6 punti totali - verificare a mano
+21/12/24,uk - league 1,barnsley,leyton orient,2015.64,1927.75,0,4,media,rating diverso di 30.3 punti (plausibile pre/post match)
+22/12/24,romania - liga 1,petrolul ploiest,fc unirea 2004 slobozia,1873.63,1751.47,2,1,media,rating diverso di 33.6 punti (plausibile pre/post match)
 22/12/24,costa rica - primera division,herediano,alajuelense,1779.31,1772.36,,,n/d,data giusta ma nessun avversario simile a 'alajuelense'
 22/12/24,italia - serie b,frosinone,salernitana,1850.43,1768.6,,,n/d,data giusta ma nessun avversario simile a 'salernitana'
 22/12/24,uk - league 1,rotherham,wigan,1947.63,1841.91,,,n/d,data giusta ma nessun avversario simile a 'wigan'
 22/12/24,uk - league 1,wrexham,blackpool,2007.98,1884.83,,,n/d,data giusta ma nessun avversario simile a 'blackpool'
 22/12/24,portogallo - segunda liga,mafra,feirense,1752.75,1715.51,,,n/d,nessuna partita con quella data sulla pagina
-2/1/25,uk - league 2,gillingham,bromley,1823.08,1767.74,,,n/d,data giusta ma nessun avversario simile a 'bromley'
-4/1/25,uk - league 1,lincoln city,stevenage,1985.39,1891.09,0,0,bassa,rating diverso di 34.5 punti totali - verificare a mano
+2/1/25,uk - league 2,gillingham,bromley,1823.08,1767.74,,,n/d,nessuna partita con quella data sulla pagina
+4/1/25,uk - league 1,lincoln city,stevenage,1985.39,1891.09,0,0,media,rating diverso di 34.5 punti (plausibile pre/post match)
 5/1/25,italia - serie c,spal,perugia,1597.97,1580.76,,,n/d,nessuna partita con quella data sulla pagina
-5/1/25,grecia - superleague 1,levadiakos,panserraikos,1880.52,1791.79,1,0,bassa,rating diverso di 59.1 punti totali - verificare a mano
+5/1/25,grecia - superleague 1,levadiakos,panserraikos,1880.52,1791.79,1,0,media,rating diverso di 59.1 punti (plausibile pre/post match)
 5/1/25,italia - serie c,torres,pescara,1735.42,1701.24,,,n/d,data giusta ma nessun avversario simile a 'pescara'
-5/1/25,portogallo - segunda liga,torreense,cd mafra,1818.12,1738.06,1,0,bassa,rating diverso di 43.6 punti totali - verificare a mano
+5/1/25,portogallo - segunda liga,torreense,cd mafra,1818.12,1738.06,1,0,media,rating diverso di 43.6 punti (plausibile pre/post match)
 5/1/25,portogallo - segunda liga,pacos ferreira,academico viseu,1791.2,1773.99,,,n/d,data giusta ma nessun avversario simile a 'academico viseu'
-5/1/25,italia - serie a,roma,lazio,2292.79,2267.01,,,n/d,data giusta ma nessun avversario simile a 'lazio'
-5/1/25,portogallo - primera liga,estrela amadora,estoril,1940.7,1880.63,,,n/d,nessuna partita con quella data sulla pagina
+5/1/25,italia - serie a,roma,lazio,2292.79,2267.01,2,0,media,rating diverso di 40.5 punti (plausibile pre/post match)
+5/1/25,portogallo - primera liga,estrela amadora,estoril,1940.7,1880.63,,,n/d,data giusta ma nessun avversario simile a 'estoril'
 8/1/25,uk - national league south,wellin,weymouth,1580.62,1504.75,,,n/d,nessuna partita con quella data sulla pagina
 8/1/25,uk - npl premier division,united of manchester,warrington,1535.11,1522.39,,,n/d,nessuna partita con quella data sulla pagina
-11/1/25,italia - serie c,giana erminio,pro vercelli,1571.82,1494.47,,,n/d,data giusta ma nessun avversario simile a 'pro vercelli'
+11/1/25,italia - serie c,giana erminio,pro vercelli,1571.82,1494.47,,,n/d,nessuna partita con quella data sulla pagina
 12/1/25,messico - segunda division,racing de veracruz,pioneros de cancun,1597.66,1516.01,,,n/d,data giusta ma nessun avversario simile a 'pioneros de cancun'
-12/1/25,italia - serie a,genoa,parma,2101.94,1985.93,,,n/d,data giusta ma nessun avversario simile a 'parma'
-12/1/25,cameron - elite one,canon de yaounde,cotonsport,1741.37,1708.49,,,n/d,nessuna partita con quella data sulla pagina
+12/1/25,italia - serie a,genoa,parma,2101.94,1985.93,1,0,bassa,rating diverso di 72.4 punti totali - verificare a mano
+12/1/25,cameron - elite one,canon de yaounde,cotonsport,1741.37,1708.49,,,n/d,data giusta ma nessun avversario simile a 'cotonsport'
 12/1/25,italia - serie b,palermo,modena,1965.11,1853.39,2,0,bassa,rating diverso di 85.3 punti totali - verificare a mano
 12/1/25,cameron - elite one,colombe du dja et lobo,bamboutos de mbouda,1715.39,1590.87,,,n/d,nessuna partita con quella data sulla pagina
 12/1/25,marocco - gnf 2,usm oujda,wydad fes,1570.65,1455.26,,,n/d,nessuna partita con quella data sulla pagina
 12/1/25,belgio - prima divisione A,cercle bruges,kv mechelen,2028.13,1980.01,1,0,bassa,rating diverso di 82.3 punti totali - verificare a mano
 12/1/25,giamaica - premier league,waterhouse,tivoli gardens,1559.9,1497.93,,,n/d,nessuna partita con quella data sulla pagina
-17/1/25,messico - liga de expansion,correcaminos,tlaxcala fc,1539.44,1501.44,,,n/d,nessuna partita con quella data sulla pagina
+17/1/25,messico - liga de expansion,correcaminos,tlaxcala fc,1539.44,1501.44,,,n/d,data giusta ma nessun avversario simile a 'tlaxcala fc'
 17/1/25,italia - serie b,sampdoria,cesena,1897.53,1820.78,1,2,bassa,rating diverso di 78.3 punti totali - verificare a mano
-18/1/25,germania - bundesliga 2,kaiserslautern,ssv ulm 1846,2036.74,1943.81,,,n/d,data giusta ma nessun avversario simile a 'ssv ulm 1846'
-18/1/25,germania - 3 liga,wehen sv,verl,1913.73,1907.04,,,n/d,nessuna partita con quella data sulla pagina
-18/1/25,portogallo - segunda liga,cd feirense,torreense,1789.0,1765.35,,,n/d,data giusta ma nessun avversario simile a 'torreense'
+18/1/25,germania - bundesliga 2,kaiserslautern,ssv ulm 1846,2036.74,1943.81,2,1,media,rating diverso di 28.7 punti (plausibile pre/post match)
+18/1/25,germania - 3 liga,wehen sv,verl,1913.73,1907.04,,,n/d,data giusta ma nessun avversario simile a 'verl'
+18/1/25,portogallo - segunda liga,cd feirense,torreense,1789.0,1765.35,,,n/d,nessuna partita con quella data sulla pagina
 18/1/25,spagna - segunda division,eibar,Albacete balompie,1975.79,1868.58,1,1,bassa,rating diverso di 105.5 punti totali - verificare a mano
-18/1/25,francia - national,bourg-peronnas,sochaux,1646.36,1625.89,,,n/d,nessuna partita con quella data sulla pagina
+18/1/25,francia - national,bourg-peronnas,sochaux,1646.36,1625.89,,,n/d,data giusta ma nessun avversario simile a 'sochaux'
 19/1/25,germania - bundesliga 2,paderborn,hertha berlino,2111.67,2057.79,1,2,bassa,rating diverso di 65.5 punti totali - verificare a mano
 19/1/25,italia - serie b,palermo,juve stabia,1947.98,1831.85,1,0,bassa,rating diverso di 66.1 punti totali - verificare a mano
 19/1/25,italia - serie c,arzignano valchiampo,trento,1581.96,1558.77,,,n/d,data giusta ma nessun avversario simile a 'trento'
-19/1/25,costa rica - primera division,ad san carlos,sporting san jose,1680.76,1596.41,,,n/d,nessuna partita con quella data sulla pagina
-24/1/25,portogallo - segunda liga,academico viseu,feirense,1808.4,1716.23,2,1,bassa,rating diverso di 55.7 punti totali - verificare a mano
+19/1/25,costa rica - primera division,ad san carlos,sporting san jose,1680.76,1596.41,,,n/d,data giusta ma nessun avversario simile a 'sporting san jose'
+24/1/25,portogallo - segunda liga,academico viseu,feirense,1808.4,1716.23,2,1,media,rating diverso di 55.7 punti (plausibile pre/post match)
 24/1/25,spagna - segunda division,las palmas,osasuna,2122.43,2090.76,1,1,bassa,rating diverso di 86.9 punti totali - verificare a mano
 24/1/25,svizzera - challenge league,neuchatel xamax,stade lausanne-ouchy,1749.11,1731.19,,,n/d,nessuna partita con quella data sulla pagina
-24/1/25,italia - serie b,cesena,bari,1905.84,1811.54,,,n/d,data giusta ma nessun avversario simile a 'bari'
-24/1/25,italia - serie c,carpi,spal,1560.02,1535.91,,,n/d,nessuna partita con quella data sulla pagina
+24/1/25,italia - serie b,cesena,bari,1905.84,1811.54,1,1,bassa,rating diverso di 86.0 punti totali - verificare a mano
+24/1/25,italia - serie c,carpi,spal,1560.02,1535.91,,,n/d,data giusta ma nessun avversario simile a 'spal'
 24/1/25,uk - championship,qpr,sheffield wednesday,2028.59,1992.74,,,n/d,nessuna partita con quella data sulla pagina
 24/1/25,uk - league 2,barrow,grimsby,1850.52,1785.42,,,n/d,nessuna partita con quella data sulla pagina
 24/1/25,,abc,America rn,1692.09,1638.45,,,n/d,nessuna partita con quella data sulla pagina
 24/1/25,,plaza amador,arabe unido,1655.01,1579.14,,,n/d,data giusta ma nessun avversario simile a 'arabe unido'
 24/1/25,brasile - campionato paulista a2,linense,rio claro,1568.91,1535.65,,,n/d,nessuna partita con quella data sulla pagina
 24/1/25,spagna - segunda division,granada,sporting gijon,1969.57,1912.2,,,n/d,nessuna partita con quella data sulla pagina
-24/1/25,italia - serie a,lazio,fiorentina,2277.36,2179.54,,,n/d,nessuna partita con quella data sulla pagina
+24/1/25,italia - serie a,lazio,fiorentina,2277.36,2179.54,,,n/d,data giusta ma nessun avversario simile a 'fiorentina'
 27/1/25,brasile - campeonato paulista,guarani,noroeste,1720.46,1615.55,,,n/d,nessuna partita con quella data sulla pagina
 1/2/25,,millwall,qpr,2029.95,1957.01,,,n/d,data giusta ma nessun avversario simile a 'qpr'
 27/1/25,,getafe,Siviglia,2152.87,2113.38,,,n/d,data giusta ma nessun avversario simile a 'Siviglia'
-27/1/25,,wehen,VfB stoccarda 2,1918.67,1819.71,,,n/d,data giusta ma nessun avversario simile a 'VfB stoccarda 2'
+27/1/25,,wehen,VfB stoccarda 2,1918.67,1819.71,,,n/d,nessuna partita con quella data sulla pagina
 27/1/25,germania - bundesliga 2,eintracht francoforte,wolfsburg,2291.57,2187.71,,,n/d,data giusta ma nessun avversario simile a 'wolfsburg'
 27/1/25,spagna - la liga,valencia,celta vigo,2157.22,2098.86,,,n/d,data giusta ma nessun avversario simile a 'celta vigo'
 27/1/25,spagna - segunda division,eibar,deportivo la coruna,1951.39,1883.61,,,n/d,nessuna partita con quella data sulla pagina
@@ -164,21 +164,21 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 27/1/25,uk - championship,middlesbrough,sunderland,2151.84,2127.87,,,n/d,nessuna partita con quella data sulla pagina
 6/2/25,,cariari pococi,guadalupe fc,1603.31,1590.59,,,n/d,nessuna partita con quella data sulla pagina
 6/2/25,,aparedicense,crac,1693.33,1659.82,,,n/d,nessuna partita con quella data sulla pagina
-6/2/25,guatemala - liga nacional,marquense,coban imperial,1674.02,1590.31,,,n/d,data giusta ma nessun avversario simile a 'coban imperial'
-7/2/25,turchia - 1 lig,genclerbirligi,esenler erokspor,1839.41,1742.84,,,n/d,data giusta ma nessun avversario simile a 'esenler erokspor'
-7/2/25,francia - ligue 2,rodez,sc bastia,1857.92,1841.37,0,2,bassa,rating diverso di 26.1 punti totali - verificare a mano
+6/2/25,guatemala - liga nacional,marquense,coban imperial,1674.02,1590.31,,,n/d,nessuna partita con quella data sulla pagina
+7/2/25,turchia - 1 lig,genclerbirligi,esenler erokspor,1839.41,1742.84,1,1,alta,rating coincide
+7/2/25,francia - ligue 2,rodez,sc bastia,1857.92,1841.37,0,2,media,rating diverso di 26.1 punti (plausibile pre/post match)
 7/2/25,spagna - segunda division,albacete balompie,real Saragozza,1919.97,1862.61,2,1,bassa,rating diverso di 73.6 punti totali - verificare a mano
-7/2/25,polonia - ekstraklasa,pogon szczecin,gornik zabrze,1958.81,1880.29,3,0,bassa,rating diverso di 26.5 punti totali - verificare a mano
+7/2/25,polonia - ekstraklasa,pogon szczecin,gornik zabrze,1958.81,1880.29,3,0,media,rating diverso di 26.5 punti (plausibile pre/post match)
 8/2/25,brasile - campeonato paulista,portuguesa,inter de limeira,1708.84,1610.16,,,n/d,data giusta ma nessun avversario simile a 'inter de limeira'
-8/2/25,honduras - lega nazionale,real espana,cd marathon,1647.08,1583.51,,,n/d,nessuna partita con quella data sulla pagina
+8/2/25,honduras - lega nazionale,real espana,cd marathon,1647.08,1583.51,,,n/d,data giusta ma nessun avversario simile a 'cd marathon'
 8/2/25,marocco - gnf 2,stade marocain du rabat,usm oujda,1606.03,1485.61,,,n/d,nessuna partita con quella data sulla pagina
-9/2/25,panama - lpf,tauro fc,plaza amador,1622.32,1611.99,,,n/d,nessuna partita con quella data sulla pagina
+9/2/25,panama - lpf,tauro fc,plaza amador,1622.32,1611.99,,,n/d,data giusta ma nessun avversario simile a 'plaza amador'
 9/2/25,messico - liga de expansion,jaiba brava,cancun fc,1666.57,1584.93,,,n/d,data giusta ma nessun avversario simile a 'cancun fc'
-9/2/25,portogallo - primera liga,arouca,rio ave,1991.42,1893.6,1,1,bassa,rating diverso di 32.9 punti totali - verificare a mano
+9/2/25,portogallo - primera liga,arouca,rio ave,1991.42,1893.6,1,1,media,rating diverso di 32.9 punti (plausibile pre/post match)
 9/2/25,uk - isthmian premier division,whitehawk,hendon,1500.39,1434.24,,,n/d,nessuna partita con quella data sulla pagina
-9/2/25,el salvador - clausura,municipal limeno,cd cacahuatique,1514.82,1474.56,,,n/d,nessuna partita con quella data sulla pagina
+9/2/25,el salvador - clausura,municipal limeno,cd cacahuatique,1514.82,1474.56,,,n/d,data giusta ma nessun avversario simile a 'cd cacahuatique'
 14/2/25,francia - ligue 2,amiens,grenoble,1823.62,1760.91,,,n/d,nessuna partita con quella data sulla pagina
-14/2/25,francia - ligue 1,brest,auxerre,2078.05,2014.16,2,2,bassa,rating diverso di 44.1 punti totali - verificare a mano
+14/2/25,francia - ligue 1,brest,auxerre,2078.05,2014.16,2,2,media,rating diverso di 44.1 punti (plausibile pre/post match)
 14/2/25,uk - championship,qpr,derby,2017.8,1901.68,,,n/d,nessuna partita con quella data sulla pagina
 15/2/25,thailandia - premier league,nong bua pitchaya,nakhon ratchasima,1746.12,1660.03,,,n/d,nessuna partita con quella data sulla pagina
 15/2/25,Serbia - prva liga,borac cacak,fk radnick surdulica,1601.79,1534.0,,,n/d,nessuna partita con quella data sulla pagina
@@ -186,83 +186,83 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 15/2/25,croazia - 1. nl,orijent,opatija,1610.05,1462.38,,,n/d,data giusta ma nessun avversario simile a 'opatija'
 15/2/25,germania - bundesliga,union berlino,borussia m'gladbach,2213.85,2142.07,,,n/d,data giusta ma nessun avversario simile a 'borussia m'gladbach'
 15/2/25,uk - league 1,barnsley,huddersfield,1997.36,1963.85,1,2,bassa,rating diverso di 77.3 punti totali - verificare a mano
-15/2/25,grecia - superleague,ofi creta,asteras tripolis,1911.72,1865.08,,,n/d,nessuna partita con quella data sulla pagina
-16/2/25,turchia - 2 lig kirmizi,Ankara demirspor,Karaman,1597.63,1551.44,,,n/d,nessuna partita con quella data sulla pagina
-15/2/25,croatia - 1. nl ,nk croatia zmijavci,nk dugopolje,1571.25,1479.07,,,n/d,nessuna partita con quella data sulla pagina
+15/2/25,grecia - superleague,ofi creta,asteras tripolis,1911.72,1865.08,2,1,bassa,rating diverso di 68.9 punti totali - verificare a mano
+16/2/25,turchia - 2 lig kirmizi,Ankara demirspor,Karaman,1597.63,1551.44,,,n/d,data giusta ma nessun avversario simile a 'Karaman'
+15/2/25,croatia - 1. nl ,nk croatia zmijavci,nk dugopolje,1571.25,1479.07,,,n/d,data giusta ma nessun avversario simile a 'nk dugopolje'
 16/2/25,italia - serie c,arezzo,torres,1697.02,1679.81,,,n/d,nessuna partita con quella data sulla pagina
 16/2/25,ungheria - nb II,szeged-csanad grosics,kozarmisleny se,1621.42,1569.43,,,n/d,nessuna partita con quella data sulla pagina
-16/2/25,camerun - elite one,canon de yaounde,fc gazelle,1739.77,1708.72,,,n/d,nessuna partita con quella data sulla pagina
-16/2/25,camerun - elite one,stade renard de melong,pwd de bamenda,1665.1,1583.45,,,n/d,nessuna partita con quella data sulla pagina
-16/2/25,spagna - segunda division,huesca,granada,1929.02,1893.83,,,n/d,nessuna partita con quella data sulla pagina
-16/2/25,portogallo - segunda liga,ud leira,academico viseu,1839.73,1762.37,,,n/d,data giusta ma nessun avversario simile a 'academico viseu'
+16/2/25,camerun - elite one,canon de yaounde,fc gazelle,1739.77,1708.72,,,n/d,data giusta ma nessun avversario simile a 'fc gazelle'
+16/2/25,camerun - elite one,stade renard de melong,pwd de bamenda,1665.1,1583.45,,,n/d,data giusta ma nessun avversario simile a 'pwd de bamenda'
+16/2/25,spagna - segunda division,huesca,granada,1929.02,1893.83,,,n/d,data giusta ma nessun avversario simile a 'granada'
+16/2/25,portogallo - segunda liga,ud leira,academico viseu,1839.73,1762.37,1,1,media,rating diverso di 58.8 punti (plausibile pre/post match)
 16/2/25,,preston,millwall,2024.47,1977.85,,,n/d,data giusta ma nessun avversario simile a 'millwall'
 16/2/25,,notts count,Colchester,1920.2,1810.99,,,n/d,nessuna partita con quella data sulla pagina
 16/2/25,brasile - campionati statali,taubate,rio claro,1608.98,1537.2,,,n/d,nessuna partita con quella data sulla pagina
 16/2/25,colombia - primera a,once caldas,deportivo pereira,1751.16,1641.96,,,n/d,data giusta ma nessun avversario simile a 'deportivo pereira'
 22/2/25,giamaica - premier league,arnett gardens,portmore united,1625.86,1570.91,,,n/d,data giusta ma nessun avversario simile a 'portmore united'
-22/2/25,germania - bundesliga 2,sc preussen munster,jahn regensburg,1991.16,1910.5,2,0,bassa,rating diverso di 44.3 punti totali - verificare a mano
+22/2/25,germania - bundesliga 2,sc preussen munster,jahn regensburg,1991.16,1910.5,2,0,media,rating diverso di 44.3 punti (plausibile pre/post match)
 22/2/25,Croazia - 1. nl,rudes,orijent,1620.35,1526.43,,,n/d,data giusta ma nessun avversario simile a 'orijent'
-22/2/25,italia - serie b,mantova,bari,1859.2,1801.84,,,n/d,data giusta ma nessun avversario simile a 'bari'
+22/2/25,italia - serie b,mantova,bari,1859.2,1801.84,0,1,bassa,rating diverso di 97.0 punti totali - verificare a mano
 22/2/25,Guatemala - Liga nacional,coban imperial,xelaju,1708.07,1658.09,,,n/d,data giusta ma nessun avversario simile a 'xelaju'
 23/2/25,ecuador - liga pro serie a,independiente del valle,ldu quito,1934.33,1886.34,,,n/d,nessuna partita con quella data sulla pagina
 23/2/25,uk - championship,watford,Luton,1991.5,1947.03,2,0,bassa,rating diverso di 76.6 punti totali - verificare a mano
 23/2/25,Ungheria - nb2,bekescsabai elore se,soroksar,1545.82,1545.32,,,n/d,nessuna partita con quella data sulla pagina
 23/2/25,spagna - segunda division,deportivo la coruna,huesca,1951.04,1853.23,0,0,bassa,rating diverso di 80.2 punti totali - verificare a mano
-23/2/25,austria - bundesliga,scr altach,hartberg,1929.18,1906.42,0,0,bassa,rating diverso di 47.8 punti totali - verificare a mano
-23/2/25,italia - serie c,crotone,monopoli,1725.55,1633.37,,,n/d,nessuna partita con quella data sulla pagina
+23/2/25,austria - bundesliga,scr altach,hartberg,1929.18,1906.42,0,0,media,rating diverso di 47.8 punti (plausibile pre/post match)
+23/2/25,italia - serie c,crotone,monopoli,1725.55,1633.37,,,n/d,data giusta ma nessun avversario simile a 'monopoli'
 23/2/25,italia - serie c,foggia,potenza,1625.58,1581.5,,,n/d,nessuna partita con quella data sulla pagina
 23/2/25,turchia - 1 lig,umraniyespor,sakaryaspor,1822.41,1777.44,,,n/d,nessuna partita con quella data sulla pagina
-23/2/25,Francia - ligue 1,Strasburgo ,brest,2106.19,2025.1,,,n/d,data giusta ma nessun avversario simile a 'brest'
-23/2/25,el Salvador - clausura,cd aguila,ad isidro Metapan,1685.01,1604.96,,,n/d,nessuna partita con quella data sulla pagina
+23/2/25,Francia - ligue 1,Strasburgo ,brest,2106.19,2025.1,0,0,bassa,rating diverso di 66.2 punti totali - verificare a mano
+23/2/25,el Salvador - clausura,cd aguila,ad isidro Metapan,1685.01,1604.96,,,n/d,data giusta ma nessun avversario simile a 'ad isidro Metapan'
 23/2/25,uk - league 2,barrow,carlisle,1821.0,1750.57,,,n/d,nessuna partita con quella data sulla pagina
 1/3/25,Germania - Bundesliga 2,Norimberga,Hannover 96,2093.08,2083.15,,,n/d,data giusta ma nessun avversario simile a 'Hannover 96'
-1/3/25,uk - league 1,wigan,reading,1917.65,1810.79,,,n/d,nessuna partita con quella data sulla pagina
-1/3/25,spagna - la liga,rayo vallecano,Siviglia,2200.38,2158.6,,,n/d,data giusta ma nessun avversario simile a 'Siviglia'
+1/3/25,uk - league 1,wigan,reading,1917.65,1810.79,1,2,media,rating diverso di 50.1 punti (plausibile pre/post match)
+1/3/25,spagna - la liga,rayo vallecano,Siviglia,2200.38,2158.6,1,1,bassa,rating diverso di 76.6 punti totali - verificare a mano
 1/3/25,croazia - hnl,nk osijek,slaven belupo,1938.78,1845.86,,,n/d,data giusta ma nessun avversario simile a 'slaven belupo'
 1/3/25,spagna - segunda division,real saragozza,sporting gijon,1961.99,1904.62,,,n/d,data giusta ma nessun avversario simile a 'sporting gijon'
 1/3/25,usa - mls,real salt lake,seattle sounders,1944.68,1938.13,,,n/d,data giusta ma nessun avversario simile a 'seattle sounders'
 2/3/25,costa rica - primera division,municipal perez zeledon,santos de guapiles,1644.17,1535.87,,,n/d,nessuna partita con quella data sulla pagina
 2/3/25,cile - liga de primera,everton de vina,nublense,1651.15,1558.22,,,n/d,nessuna partita con quella data sulla pagina
 2/3/25,usa - mls,chicago fire,dc united,1818.25,1745.08,,,n/d,nessuna partita con quella data sulla pagina
-2/3/25,nicaragua - clausura,unan managua,jalapa,1437.49,1409.63,,,n/d,nessuna partita con quella data sulla pagina
+2/3/25,nicaragua - clausura,unan managua,jalapa,1437.49,1409.63,,,n/d,data giusta ma nessun avversario simile a 'jalapa'
 2/3/25,Grecia - superleague 2,egaleo,ilioupoli,1509.95,1434.09,,,n/d,data giusta ma nessun avversario simile a 'ilioupoli'
 2/3/25,turchia - 1 lig,boluspor,Erzurum bb,1828.51,1814.87,,,n/d,data giusta ma nessun avversario simile a 'Erzurum bb'
 2/3/25,portogallo - segunda liga,portimonense,leixoes,1758.85,1727.81,,,n/d,data giusta ma nessun avversario simile a 'leixoes'
-2/3/25,germania - Bundesliga 2,elversberg,hertha berlino,2097.32,2063.8,4,0,bassa,rating diverso di 43.7 punti totali - verificare a mano
+2/3/25,germania - Bundesliga 2,elversberg,hertha berlino,2097.32,2063.8,4,0,media,rating diverso di 43.7 punti (plausibile pre/post match)
 2/3/25,svizzera - challenge league,neuchatel xamax,ac bellinzona,1714.49,1696.92,,,n/d,nessuna partita con quella data sulla pagina
 2/3/25,italia - serie b,catanzaro,reggiana,1881.1,1815.41,1,1,bassa,rating diverso di 111.3 punti totali - verificare a mano
 2/3/25,portogallo - primera liga,moreirense,estrela amadora,1979.57,1850.69,,,n/d,data giusta ma nessun avversario simile a 'estrela amadora'
 2/3/25,italia - serie c,campobasso,pineto,1598.9,1539.32,,,n/d,nessuna partita con quella data sulla pagina
 2/3/25,Italia - serie a,milan,Lazio,2395.55,2308.75,1,2,bassa,rating diverso di 76.7 punti totali - verificare a mano
-3/3/25,usa - mls,houston dynamo,inter miami fc,1921.95,1884.71,,,n/d,nessuna partita con quella data sulla pagina
-3/3/25,argentina - primera b metropolitana,club comunicaciones,deportivo armenio,1582.73,1536.33,,,n/d,nessuna partita con quella data sulla pagina
-3/3/25,etiopia - premier league,sidama bunna,hadiya hossana,1602.65,1492.66,,,n/d,nessuna partita con quella data sulla pagina
+3/3/25,usa - mls,houston dynamo,inter miami fc,1921.95,1884.71,,,n/d,data giusta ma nessun avversario simile a 'inter miami fc'
+3/3/25,argentina - primera b metropolitana,club comunicaciones,deportivo armenio,1582.73,1536.33,,,n/d,data giusta ma nessun avversario simile a 'deportivo armenio'
+3/3/25,etiopia - premier league,sidama bunna,hadiya hossana,1602.65,1492.66,,,n/d,data giusta ma nessun avversario simile a 'hadiya hossana'
 3/3/25,azerbaigian - premier league,sabah,araz fk,1853.91,1788.81,,,n/d,data giusta ma nessun avversario simile a 'araz fk'
-3/3/25,uk - league 2,crewe,fleetwood town,1830.39,1784.23,,,n/d,nessuna partita con quella data sulla pagina
+3/3/25,uk - league 2,crewe,fleetwood town,1830.39,1784.23,,,n/d,data giusta ma nessun avversario simile a 'fleetwood town'
 3/3/25,brasile - campionato gaucho,brasil de pelotas,pelotas,1631.61,1522.02,,,n/d,nessuna partita con quella data sulla pagina
 3/3/25,colombia - primera a,aguilas doradas,atletico bucaramanga,1739.53,1695.07,,,n/d,nessuna partita con quella data sulla pagina
 8/3/25,messico - segunda division,cimarrones de sonora,alacranes de durango,1806.36,1738.71,,,n/d,data giusta ma nessun avversario simile a 'alacranes de durango'
-8/3/25,kazakistan - premier league,kairat almaty,ordabasy shymkent,1961.51,1881.45,4,0,bassa,rating diverso di 52.2 punti totali - verificare a mano
-8/3/25,slovacchia - super liga,dukla banska bystrica,mfk skalica,1790.9,1735.22,,,n/d,nessuna partita con quella data sulla pagina
-8/3/25,uk - league 1,barnsley,blackpool,1968.31,1926.03,0,3,bassa,rating diverso di 46.4 punti totali - verificare a mano
-8/3/25,uk - league 1,stevenage,mansfield,1931.25,1846.6,1,1,bassa,rating diverso di 49.0 punti totali - verificare a mano
-8/3/25,scozia - championship,airdrieonians,hamilton,1573.61,1566.51,,,n/d,data giusta ma nessun avversario simile a 'hamilton'
+8/3/25,kazakistan - premier league,kairat almaty,ordabasy shymkent,1961.51,1881.45,4,0,media,rating diverso di 52.2 punti (plausibile pre/post match)
+8/3/25,slovacchia - super liga,dukla banska bystrica,mfk skalica,1790.9,1735.22,,,n/d,data giusta ma nessun avversario simile a 'mfk skalica'
+8/3/25,uk - league 1,barnsley,blackpool,1968.31,1926.03,0,3,media,rating diverso di 46.4 punti (plausibile pre/post match)
+8/3/25,uk - league 1,stevenage,mansfield,1931.25,1846.6,1,1,media,rating diverso di 49.0 punti (plausibile pre/post match)
+8/3/25,scozia - championship,airdrieonians,hamilton,1573.61,1566.51,,,n/d,nessuna partita con quella data sulla pagina
 8/3/25,romania - liga 1,petrolul ploiest,acs sepsi,1928.55,1865.84,,,n/d,data giusta ma nessun avversario simile a 'acs sepsi'
 8/3/25,italia - serie b,sampdoria,palermo,1908.47,1860.35,1,1,bassa,rating diverso di 74.2 punti totali - verificare a mano
-8/3/25,polonia - liga 1,ruch chorzow,arka gdynia,1819.67,1799.21,,,n/d,nessuna partita con quella data sulla pagina
+8/3/25,polonia - liga 1,ruch chorzow,arka gdynia,1819.67,1799.21,,,n/d,data giusta ma nessun avversario simile a 'arka gdynia'
 9/3/25,argentina - primera b metropolitana,real pilar,argentino merlo,1536.68,1443.76,,,n/d,data giusta ma nessun avversario simile a 'argentino merlo'
 9/3/25,ecuador - liga pro serie a,barcelona guayaquil,independiente del valle,1897.75,1867.32,,,n/d,nessuna partita con quella data sulla pagina
 9/3/25,costa rica - primera division,herediano,alajuelense,1774.57,1739.51,,,n/d,data giusta ma nessun avversario simile a 'alajuelense'
 9/3/25,Germania - regionalliga,FC lok leipzig,carl Zeiss jena,1840.42,1748.42,,,n/d,nessuna partita con quella data sulla pagina
 9/3/25,Italia - serie C,foggia,Sorrento,1618.94,1520.58,,,n/d,nessuna partita con quella data sulla pagina
-9/3/25,portogallo - segunda liga,maritimo,academico viseu,1839.11,1771.45,,,n/d,nessuna partita con quella data sulla pagina
-9/3/25,portogallo - primera liga,santa clara,moreirense,2084.45,1959.74,1,1,bassa,rating diverso di 39.7 punti totali - verificare a mano
+9/3/25,portogallo - segunda liga,maritimo,academico viseu,1839.11,1771.45,,,n/d,data giusta ma nessun avversario simile a 'academico viseu'
+9/3/25,portogallo - primera liga,santa clara,moreirense,2084.45,1959.74,1,1,media,rating diverso di 39.7 punti (plausibile pre/post match)
 9/3/25,slovenia - 2 snl,nk triglav kranj,nd beltinci,1553.93,1519.07,,,n/d,data giusta ma nessun avversario simile a 'nd beltinci'
 9/3/25,italia - serie c,novara,giana erminio,1593.86,1554.35,,,n/d,data giusta ma nessun avversario simile a 'giana erminio'
-9/3/25,Italia - serie a,Juventus,atalanta,2366.02,2350.07,,,n/d,data giusta ma nessun avversario simile a 'atalanta'
+9/3/25,Italia - serie a,Juventus,atalanta,2366.02,2350.07,0,4,bassa,rating diverso di 68.8 punti totali - verificare a mano
 9/3/25,panama - lpf,ca idependiente de la chorrera,sporting san miguelito,1636.0,1589.84,,,n/d,nessuna partita con quella data sulla pagina
 9/3/25,argentina - nacional b,gimnasia jujuy,ca estudiantes caseros,1709.59,1575.4,,,n/d,nessuna partita con quella data sulla pagina
-9/3/25,usa - mls,la galaxy,st. louis city sc,1876.67,1772.81,,,n/d,nessuna partita con quella data sulla pagina
+9/3/25,usa - mls,la galaxy,st. louis city sc,1876.67,1772.81,,,n/d,data giusta ma nessun avversario simile a 'st. louis city sc'
 10/3/25,turchia - 1 lig,pendikspor,amedspor,1844.77,1810.6,0,1,bassa,rating diverso di 103.7 punti totali - verificare a mano
 10/3/25,bulgaria - vtora liga,ludogorets razgrad II,sportist svoge,1517.98,1406.97,,,n/d,data giusta ma nessun avversario simile a 'sportist svoge'
 9/3/25,UK - league 2,colchester,port vale,1890.2,1836.56,,,n/d,data giusta ma nessun avversario simile a 'port vale'
@@ -273,26 +273,26 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 9/3/25,,talaea el geish,ismaily SC,1770.88,1709.7,,,n/d,data giusta ma nessun avversario simile a 'ismaily SC'
 14/3/25,france - national,us orleans,boulogne,1689.93,1655.76,,,n/d,data giusta ma nessun avversario simile a 'boulogne'
 14/3/25,francia - ligue 2,clermont,grenoble,1814.56,1781.68,,,n/d,data giusta ma nessun avversario simile a 'grenoble'
-15/3/25,costa rica - primera division,ad guanacasteca,santos de guapiles,1587.75,1524.3,,,n/d,nessuna partita con quella data sulla pagina
-15/3/25,messico - liga mx,queretaro,mazatlan fc,1683.31,1594.58,,,n/d,nessuna partita con quella data sulla pagina
+15/3/25,costa rica - primera division,ad guanacasteca,santos de guapiles,1587.75,1524.3,,,n/d,data giusta ma nessun avversario simile a 'santos de guapiles'
+15/3/25,messico - liga mx,queretaro,mazatlan fc,1683.31,1594.58,,,n/d,data giusta ma nessun avversario simile a 'mazatlan fc'
 15/3/25,colombia - primera a,deportivo pasto,la equidad,1742.42,1652.88,,,n/d,nessuna partita con quella data sulla pagina
 15/3/25,danimarca - 3 divisione,holbaek,naesby,1536.97,1519.05,,,n/d,nessuna partita con quella data sulla pagina
-15/3/25,polonia - ekstraklasa,stal mielec,Slask Wroclaw,1901.52,1851.54,,,n/d,nessuna partita con quella data sulla pagina
+15/3/25,polonia - ekstraklasa,stal mielec,Slask Wroclaw,1901.52,1851.54,,,n/d,data giusta ma nessun avversario simile a 'Slask Wroclaw'
 15/3/25,italia - serie b,frosinone,brescia,1874.63,1788.22,2,1,bassa,rating diverso di 63.2 punti totali - verificare a mano
 15/3/25,lituania - a lyga,hegelmann litauen,fa siauliai,1739.83,1667.98,,,n/d,data giusta ma nessun avversario simile a 'fa siauliai'
 15/3/25,malesia - super league,pdrm,negeri sembilan,1536.4,1435.3,,,n/d,nessuna partita con quella data sulla pagina
 15/3/25,spagna - segunda liga,cordova,sporting gijon,1972.85,1870.75,1,1,bassa,rating diverso di 96.4 punti totali - verificare a mano
-16/3/25,costa rica - primera division,ad san carlos,santa ana,1634.49,1561.31,,,n/d,data giusta ma nessun avversario simile a 'santa ana'
+16/3/25,costa rica - primera division,ad san carlos,santa ana,1634.49,1561.31,0,1,bassa,rating diverso di 832.9 punti totali - verificare a mano
 16/3/25,Polonia - liga 1,pogon siedlce,stal stalowa wola,1611.66,1604.85,,,n/d,data giusta ma nessun avversario simile a 'stal stalowa wola'
-16/3/25,portogallo - segunda liga,tondela,benfica b,1872.61,1770.99,2,1,bassa,rating diverso di 58.0 punti totali - verificare a mano
-16/3/25,bosnia-erzegovina - premijer liga,nk posusje,velez mostar,1763.83,1733.39,,,n/d,nessuna partita con quella data sulla pagina
+16/3/25,portogallo - segunda liga,tondela,benfica b,1872.61,1770.99,2,1,media,rating diverso di 58.0 punti (plausibile pre/post match)
+16/3/25,bosnia-erzegovina - premijer liga,nk posusje,velez mostar,1763.83,1733.39,,,n/d,data giusta ma nessun avversario simile a 'velez mostar'
 16/3/25,cechia - 1 liga,sigma olomuc,hradec kralove,1985.18,1909.56,,,n/d,data giusta ma nessun avversario simile a 'hradec kralove'
-16/3/25,uk - championship,sheffield wednesday,sheffield united,2100.14,2074.36,0,1,bassa,rating diverso di 36.8 punti totali - verificare a mano
+16/3/25,uk - championship,sheffield wednesday,sheffield united,2100.14,2074.36,0,1,media,rating diverso di 36.8 punti (plausibile pre/post match)
 16/3/25,croazia - hnl,nk osijek,nk varazdin,1923.06,1802.65,0,0,bassa,rating diverso di 99.8 punti totali - verificare a mano
 16/3/25,cipro - 1 divisione,ethnikos achna,nea salamis famagusta,1743.14,1679.92,,,n/d,data giusta ma nessun avversario simile a 'nea salamis famagusta'
 16/3/25,portogallo - primera liga,arouca,estoril,2032.15,1902.82,1,1,bassa,rating diverso di 69.9 punti totali - verificare a mano
-17/3/25,argentina - liga profesional,lanus,instituto ac cordoba,1905.65,1753.1,,,n/d,nessuna partita con quella data sulla pagina
-17/3/25,serbia - prva liga,sloboda uzice,smederevo,1488.37,1395.45,,,n/d,data giusta ma nessun avversario simile a 'smederevo'
+17/3/25,argentina - liga profesional,lanus,instituto ac cordoba,1905.65,1753.1,,,n/d,data giusta ma nessun avversario simile a 'instituto ac cordoba'
+17/3/25,serbia - prva liga,sloboda uzice,smederevo,1488.37,1395.45,,,n/d,nessuna partita con quella data sulla pagina
 17/3/25,spagna - segunda liga,cd castellon,deportivo la coruna,1957.2,1865.02,2,2,bassa,rating diverso di 86.6 punti totali - verificare a mano
 17/3/25,algeria - 2 divisione,RC kouba,es ben akoun,1746.2,1653.27,,,n/d,data giusta ma nessun avversario simile a 'es ben akoun'
 17/3/25,uk - league 1,afc wimbledon,barrow,1911.45,1810.73,,,n/d,nessuna partita con quella data sulla pagina
@@ -300,37 +300,37 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 17/3/25,brasile - campeonato catarinense,avai,chapecoense,1834.69,1666.75,,,n/d,nessuna partita con quella data sulla pagina
 23/3/25,argentina - primera c metropolitana,general lamadrid,yupanqui,1514.2,1291.94,,,n/d,nessuna partita con quella data sulla pagina
 23/3/25,colombia - primera b,cucuta deportivo,tigres fc,1590.91,1429.51,,,n/d,nessuna partita con quella data sulla pagina
-23/3/25,colombia - primera a,aguilas doradas,envigado fc,1745.9,1500.28,,,n/d,data giusta ma nessun avversario simile a 'envigado fc'
+23/3/25,colombia - primera a,aguilas doradas,envigado fc,1745.9,1500.28,,,n/d,nessuna partita con quella data sulla pagina
 23/3/25,panama - lpf,ca idependiente de la chorrera,plaza amador,1642.4,1608.23,,,n/d,nessuna partita con quella data sulla pagina
 25/3/25,uk - national league,wealdstone,aldershot,1710.99,1696.86,,,n/d,nessuna partita con quella data sulla pagina
 25/3/25,uk - league 2,port vale,barrow,1926.73,1786.16,,,n/d,nessuna partita con quella data sulla pagina
-28/3/25,germania - lega 3,verl,rot-weiss essen,1960.99,1897.43,3,0,bassa,rating diverso di 49.9 punti totali - verificare a mano
+28/3/25,germania - lega 3,verl,rot-weiss essen,1960.99,1897.43,3,0,media,rating diverso di 49.9 punti (plausibile pre/post match)
 28/3/25,francia - national,nimes,bourg-peronnas,1658.9,1584.47,,,n/d,nessuna partita con quella data sulla pagina
-28/3/25,francia - national,versailles,villefranche,1677.48,1597.42,,,n/d,data giusta ma nessun avversario simile a 'villefranche'
+28/3/25,francia - national,versailles,villefranche,1677.48,1597.42,,,n/d,nessuna partita con quella data sulla pagina
 29/3/25,panama - lpf,san francisco fc,alianza fc panama,1540.95,1481.37,,,n/d,nessuna partita con quella data sulla pagina
 29/3/25,azerbaigian - premier league,neftchi baku,araz fk,1839.48,1766.31,,,n/d,data giusta ma nessun avversario simile a 'araz fk'
 29/3/25,malta - premier league,floriana,hibernians,1723.29,1631.89,,,n/d,data giusta ma nessun avversario simile a 'hibernians'
 29/3/25,uk - league 2,walsall,afc wimbledon,1906.38,1845.19,,,n/d,nessuna partita con quella data sulla pagina
-29/3/25,uk - league 2,milton keynes dons,fleetwood town,1825.51,1782.27,2,4,bassa,rating diverso di 22.2 punti totali - verificare a mano
-29/3/25,uk - league 1,wigan,barnsley,1928.98,1885.75,,,n/d,data giusta ma nessun avversario simile a 'barnsley'
+29/3/25,uk - league 2,milton keynes dons,fleetwood town,1825.51,1782.27,2,4,media,rating diverso di 22.2 punti (plausibile pre/post match)
+29/3/25,uk - league 1,wigan,barnsley,1928.98,1885.75,1,1,bassa,rating diverso di 78.4 punti totali - verificare a mano
 29/3/25,uk - championship,stoke,qpr,2031.55,1946.9,,,n/d,data giusta ma nessun avversario simile a 'qpr'
 30/3/25,colombia - primera a,deportivo pasto,deportivo cali,1743.08,1671.37,0,1,bassa,rating diverso di 249.5 punti totali - verificare a mano
-30/3/25,usa - mls,nashville sc,fc cincinnati,1864.51,1824.24,,,n/d,nessuna partita con quella data sulla pagina
-30/3/25,germania - lega 3,fc ingolstadt,fc viktoria koln,1922.38,1842.33,3,1,bassa,rating diverso di 39.2 punti totali - verificare a mano
-30/3/25,lituania - a lyga,fk panevezys,banga gargzdai,1701.01,1633.36,,,n/d,nessuna partita con quella data sulla pagina
+30/3/25,usa - mls,nashville sc,fc cincinnati,1864.51,1824.24,,,n/d,data giusta ma nessun avversario simile a 'fc cincinnati'
+30/3/25,germania - lega 3,fc ingolstadt,fc viktoria koln,1922.38,1842.33,3,1,media,rating diverso di 39.2 punti (plausibile pre/post match)
+30/3/25,lituania - a lyga,fk panevezys,banga gargzdai,1701.01,1633.36,,,n/d,data giusta ma nessun avversario simile a 'banga gargzdai'
 30/3/25,ungheria - nb 1,ujpest,fehervar fc,1830.91,1757.73,,,n/d,data giusta ma nessun avversario simile a 'fehervar fc'
-30/3/25,francia - ligue 1,tolosa,brest,2136.3,2029.09,,,n/d,data giusta ma nessun avversario simile a 'brest'
-30/3/25,campionato sammarinese,cosmos serravalle,ss folgore falciano calcio,1312.02,1270.12,,,n/d,nessuna partita con quella data sulla pagina
+30/3/25,francia - ligue 1,tolosa,brest,2136.3,2029.09,2,4,bassa,rating diverso di 89.2 punti totali - verificare a mano
+30/3/25,campionato sammarinese,cosmos serravalle,ss folgore falciano calcio,1312.02,1270.12,,,n/d,data giusta ma nessun avversario simile a 'ss folgore falciano calcio'
 30/3/25,germania - bundesliga 1,sc friburgo,union berlino,2258.16,2151.45,1,2,bassa,rating diverso di 68.5 punti totali - verificare a mano
-31/3/25,Polonia - liga 1,gks tychy,wisla plock,1737.71,1727.38,,,n/d,nessuna partita con quella data sulla pagina
+31/3/25,Polonia - liga 1,gks tychy,wisla plock,1737.71,1727.38,,,n/d,data giusta ma nessun avversario simile a 'wisla plock'
 2/4/25,costa rica - segunda,ad sarchi,quepos combute fc,1561.91,1523.15,,,n/d,nessuna partita con quella data sulla pagina
 4/4/25,colombia - primera b,real soacha cundinamarca,real cartagena,1612.33,1598.42,,,n/d,nessuna partita con quella data sulla pagina
-5/4/25,coreal del sud - k3 league,daejeon korail,gangneung city,1691.3,1604.3,,,n/d,nessuna partita con quella data sulla pagina
-5/4/25,germania - bundesliga 2,fortuna dusseldorf,sc preussen munster,2050.55,1962.66,1,0,bassa,rating diverso di 43.3 punti totali - verificare a mano
+5/4/25,coreal del sud - k3 league,daejeon korail,gangneung city,1691.3,1604.3,,,n/d,data giusta ma nessun avversario simile a 'gangneung city'
+5/4/25,germania - bundesliga 2,fortuna dusseldorf,sc preussen munster,2050.55,1962.66,1,0,media,rating diverso di 43.3 punti (plausibile pre/post match)
 5/4/25,etiopia - premier league,ethiopia nigd bank,sidama bunna,1587.95,1526.76,,,n/d,data giusta ma nessun avversario simile a 'sidama bunna'
-5/4/25,iran - 1 divisione,paykan,pars jonoubi jam,1645.38,1605.11,,,n/d,nessuna partita con quella data sulla pagina
+5/4/25,iran - 1 divisione,paykan,pars jonoubi jam,1645.38,1605.11,,,n/d,data giusta ma nessun avversario simile a 'pars jonoubi jam'
 5/4/25,uk - championship,qpr,cardiff,1980.62,1890.48,,,n/d,nessuna partita con quella data sulla pagina
-5/4/25,uk - league 2,salford city,gillingham,1826.81,1720.67,2,2,bassa,rating diverso di 79.4 punti totali - verificare a mano
+5/4/25,uk - league 2,salford city,gillingham,1826.81,1720.67,,,n/d,nessuna partita con quella data sulla pagina
 5/4/25,Bulgaria - parva liga,krumovgrad,FC hebar pazardzhik,1643.94,1535.32,,,n/d,data giusta ma nessun avversario simile a 'FC hebar pazardzhik'
 5/4/25,turchia - 1 lig,umraniyespor,pendikspor,1767.05,1735.38,,,n/d,nessuna partita con quella data sulla pagina
 5/4/25,Ruanda - campionato nazionale,police FC (Ruanda),mukura,1609.8,1521.9,,,n/d,data giusta ma nessun avversario simile a 'mukura'
@@ -339,71 +339,71 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 8/4/25,ARGENTINA - NACIONAL B,quilmes,racing de cordoba,1693.99,1582.05,,,n/d,nessuna partita con quella data sulla pagina
 8/4/25,uk - championship,stoke city,Luton,2027.38,1992.19,1,1,bassa,rating diverso di 75.7 punti totali - verificare a mano
 8/4/25,brasile - serie b,cuiaba,avai,1848.6,1750.21,,,n/d,nessuna partita con quella data sulla pagina
-12/4/25,cile - primera b,san luis de quillota,union san felipe,1495.01,1412.31,,,n/d,nessuna partita con quella data sulla pagina
+12/4/25,cile - primera b,san luis de quillota,union san felipe,1495.01,1412.31,,,n/d,data giusta ma nessun avversario simile a 'union san felipe'
 12/4/25,indonesia - liga 1,persija jakarta,persebaya surabaya,1749.18,1693.11,,,n/d,data giusta ma nessun avversario simile a 'persebaya surabaya'
-12/4/25,polonia - ekstraklasa,gks katowice,puszcza niepolomice,1911.46,1770.37,3,1,bassa,rating diverso di 33.3 punti totali - verificare a mano
+12/4/25,polonia - ekstraklasa,gks katowice,puszcza niepolomice,1911.46,1770.37,3,1,media,rating diverso di 33.3 punti (plausibile pre/post match)
 12/4/25,italia - serie b,carrarese,catanzaro,1847.82,1795.97,2,2,bassa,rating diverso di 61.7 punti totali - verificare a mano
 12/4/25,italia - serie b,salernitana,sudtirol,1892.95,1785.73,,,n/d,data giusta ma nessun avversario simile a 'sudtirol'
-12/4/25,svezia - allsvenkan,bk hacken,mjallby aif,2140.06,2096.83,,,n/d,data giusta ma nessun avversario simile a 'mjallby aif'
-12/4/25,uk - championship,portsmouth,derby,1990.13,1959.57,,,n/d,data giusta ma nessun avversario simile a 'derby'
-12/4/25,uk - league one,bristol rovers,exeter,1827.46,1762.37,,,n/d,data giusta ma nessun avversario simile a 'exeter'
+12/4/25,svezia - allsvenkan,bk hacken,mjallby aif,2140.06,2096.83,0,3,media,rating diverso di 52.8 punti (plausibile pre/post match)
+12/4/25,uk - championship,portsmouth,derby,1990.13,1959.57,2,2,media,rating diverso di 52.4 punti (plausibile pre/post match)
+12/4/25,uk - league one,bristol rovers,exeter,1827.46,1762.37,1,2,bassa,rating diverso di 76.9 punti totali - verificare a mano
 13/4/25,usa - mls,new york city fc,philadelphia union,1874.04,1800.87,,,n/d,data giusta ma nessun avversario simile a 'philadelphia union'
-13/4/25,Italia - serie a,atalanta,Bologna,2391.14,2311.52,2,0,bassa,rating diverso di 17.2 punti totali - verificare a mano
+13/4/25,Italia - serie a,atalanta,Bologna,2391.14,2311.52,2,0,media,rating diverso di 17.2 punti (plausibile pre/post match)
 13/4/25,honduras - lega nazionale,cd real sociedad,genesis de comayagua,1536.78,1520.68,,,n/d,data giusta ma nessun avversario simile a 'genesis de comayagua'
-13/4/25,danimarca - superligaen,sonderiyske,vejle,1909.92,1889.86,1,0,bassa,rating diverso di 43.2 punti totali - verificare a mano
-16/4/25,danimarca - 1 divisione,hobro ik,vendsyssel ff,1821.22,1729.04,3,1,bassa,rating diverso di 58.7 punti totali - verificare a mano
+13/4/25,danimarca - superligaen,sonderiyske,vejle,1909.92,1889.86,1,0,media,rating diverso di 43.2 punti (plausibile pre/post match)
+16/4/25,danimarca - 1 divisione,hobro ik,vendsyssel ff,1821.22,1729.04,3,1,media,rating diverso di 58.7 punti (plausibile pre/post match)
 18/4/25,brasile - serie a,cruzeiro,bahia,1960.42,1904.1,,,n/d,nessuna partita con quella data sulla pagina
 19/4/25,argentina - liga profesional,union santa fe,newell's,1843.25,1740.68,,,n/d,data giusta ma nessun avversario simile a 'newell's'
 19/4/25,romania - liga II,fc arges pitesti,fk csikszereda miercurea ciuc,1825.03,1759.94,3,0,bassa,rating diverso di 89.9 punti totali - verificare a mano
 19/4/25,armenia - premier league,pyunik yerevan,fc urartu,1824.24,1746.89,1,4,bassa,rating diverso di 65.9 punti totali - verificare a mano
 19/4/25,uk - premier league,brentford,brighton,2318.25,2308.12,,,n/d,data giusta ma nessun avversario simile a 'brighton'
-19/4/25,spagna - segunda liga,huesca,racing santander,1927.05,1871.37,,,n/d,data giusta ma nessun avversario simile a 'racing santander'
+19/4/25,spagna - segunda liga,huesca,racing santander,1927.05,1871.37,,,n/d,nessuna partita con quella data sulla pagina
 19/4/25,Slovacchia - super liga,MFK skalica,MFK ruzomberok,1821.61,1749.84,,,n/d,data giusta ma nessun avversario simile a 'MFK ruzomberok'
-19/4/25,lituania - a lyga,suduva marijampole,fa siauliai,1698.26,1661.01,,,n/d,nessuna partita con quella data sulla pagina
+19/4/25,lituania - a lyga,suduva marijampole,fa siauliai,1698.26,1661.01,,,n/d,data giusta ma nessun avversario simile a 'fa siauliai'
 19/4/25,slovenia - prva liga,koper,nk bravo,1865.52,1785.47,1,0,bassa,rating diverso di 120.3 punti totali - verificare a mano
-19/4/25,Cile - liga de primera,huachipato,cobresal,1563.42,1479.71,,,n/d,nessuna partita con quella data sulla pagina
-19/4/25,argentina - liga profesional,huracan,defensa y justicia,1871.8,1700.55,,,n/d,nessuna partita con quella data sulla pagina
-20/4/25,messico - segunda division,artesanos metepec fc,club canonero marina,1595.03,1531.8,,,n/d,nessuna partita con quella data sulla pagina
-20/4/25,germania - bundesliga II,karlsruher sc,greuther furth,2013.37,1963.4,1,0,bassa,rating diverso di 47.1 punti totali - verificare a mano
-20/4/25,azerbaigian - premier league,shamakhi fk,fk kapaz,1725.46,1661.89,,,n/d,nessuna partita con quella data sulla pagina
+19/4/25,Cile - liga de primera,huachipato,cobresal,1563.42,1479.71,,,n/d,data giusta ma nessun avversario simile a 'cobresal'
+19/4/25,argentina - liga profesional,huracan,defensa y justicia,1871.8,1700.55,,,n/d,data giusta ma nessun avversario simile a 'defensa y justicia'
+20/4/25,messico - segunda division,artesanos metepec fc,club canonero marina,1595.03,1531.8,,,n/d,data giusta ma nessun avversario simile a 'club canonero marina'
+20/4/25,germania - bundesliga II,karlsruher sc,greuther furth,2013.37,1963.4,1,0,media,rating diverso di 47.1 punti (plausibile pre/post match)
+20/4/25,azerbaigian - premier league,shamakhi fk,fk kapaz,1725.46,1661.89,,,n/d,data giusta ma nessun avversario simile a 'fk kapaz'
 20/4/25,uzbekistan - pfl,andijon fk,samarqand,1647.98,1550.76,,,n/d,data giusta ma nessun avversario simile a 'samarqand'
 20/4/25,svezia - superettan,trelleborgs ff,ik brage,1856.34,1788.69,,,n/d,data giusta ma nessun avversario simile a 'ik brage'
-20/4/25,Slovacchia - super liga,dukla banska bystrica,KFC komarno,1730.44,1643.44,,,n/d,nessuna partita con quella data sulla pagina
+20/4/25,Slovacchia - super liga,dukla banska bystrica,KFC komarno,1730.44,1643.44,,,n/d,data giusta ma nessun avversario simile a 'KFC komarno'
 20/4/25,Marocco - gnf 2,youssoufia berrechid,chabab Atlas khenifra,1553.85,1478.23,,,n/d,nessuna partita con quella data sulla pagina
 20/4/25,brasile - serie a,atletico mineiro,botafogo,1996.54,1863.43,,,n/d,data giusta ma nessun avversario simile a 'botafogo'
 21/4/25,brasile - serie b,america mg,goias,1866.79,1759.92,,,n/d,nessuna partita con quella data sulla pagina
 22/4/25,brasile - serie c,abc,csa,1715.21,1631.51,,,n/d,nessuna partita con quella data sulla pagina
-22/4/25,brasile - serie c,tombense,figueirense,1748.62,1664.91,,,n/d,nessuna partita con quella data sulla pagina
+22/4/25,brasile - serie c,tombense,figueirense,1748.62,1664.91,,,n/d,data giusta ma nessun avversario simile a 'figueirense'
 22/4/25,colombia - primera a,deportivo pasto,aguilas doradas,1759.95,1629.31,,,n/d,nessuna partita con quella data sulla pagina
-22/4/25,belgio - prima divisione a,standard liegi,oh leuven,1966.33,1899.79,,,n/d,data giusta ma nessun avversario simile a 'oh leuven'
-23/4/25,paraguay - divisione intermedia,encarnacion fc,resistencia fc,1512.55,1498.91,,,n/d,data giusta ma nessun avversario simile a 'resistencia fc'
+22/4/25,belgio - prima divisione a,standard liegi,oh leuven,1966.33,1899.79,0,1,bassa,rating diverso di 66.8 punti totali - verificare a mano
+23/4/25,paraguay - divisione intermedia,encarnacion fc,resistencia fc,1512.55,1498.91,,,n/d,nessuna partita con quella data sulla pagina
 23/4/25,cina - 1 divisione,Shijiazhuang Gongfu FC,Suzhou Dongwu,1630.51,1601.22,,,n/d,nessuna partita con quella data sulla pagina
-23/4/25,italia - serie c,campobasso,perugia,1594.55,1564.12,,,n/d,nessuna partita con quella data sulla pagina
+23/4/25,italia - serie c,campobasso,perugia,1594.55,1564.12,,,n/d,data giusta ma nessun avversario simile a 'perugia'
 23/4/25,italia - serie c,pontedera,rimini,1597.46,1525.62,,,n/d,nessuna partita con quella data sulla pagina
 23/4/25,Polonia - liga 1,odra opole,stal rzeszow,1646.04,1629.42,,,n/d,nessuna partita con quella data sulla pagina
-23/4/25,marocco - gnf 2,kac kenitra,youssoufia berrechid,1580.55,1471.35,,,n/d,nessuna partita con quella data sulla pagina
+23/4/25,marocco - gnf 2,kac kenitra,youssoufia berrechid,1580.55,1471.35,,,n/d,data giusta ma nessun avversario simile a 'youssoufia berrechid'
 26/4/25,argentina - torneo a,san martin de mendoza,huracan las heras,1536.66,1420.64,,,n/d,nessuna partita con quella data sulla pagina
 26/4/25,Cile - liga de primera,universidad catolica,everton de vina,1679.29,1577.18,,,n/d,data giusta ma nessun avversario simile a 'everton de vina'
 26/4/25,polonia - ekstraklasa,lechia gdansk,piast gliwice,1930.04,1864.94,3,1,bassa,rating diverso di 102.9 punti totali - verificare a mano
-26/4/25,slovenia - prva liga,nk domzale,nd primorje,1715.52,1642.34,,,n/d,nessuna partita con quella data sulla pagina
+26/4/25,slovenia - prva liga,nk domzale,nd primorje,1715.52,1642.34,,,n/d,data giusta ma nessun avversario simile a 'nd primorje'
 26/4/25,romania - liga I,afc hermannstadt,uta arad,1871.1,1750.69,,,n/d,data giusta ma nessun avversario simile a 'uta arad'
 27/4/25,brasile - serie c,csa,nautico,1699.82,1624.9,,,n/d,nessuna partita con quella data sulla pagina
 27/4/25,brasile - serie a,botafogo,fluminense,2053.04,1866.45,,,n/d,nessuna partita con quella data sulla pagina
-27/4/25,el salvador - clausura,alianza fc san salvador,ad isidro Metapan,1649.58,1556.65,,,n/d,nessuna partita con quella data sulla pagina
+27/4/25,el salvador - clausura,alianza fc san salvador,ad isidro Metapan,1649.58,1556.65,,,n/d,data giusta ma nessun avversario simile a 'ad isidro Metapan'
 27/4/25,messico - segunda division,irapuato,alacranes de durango,1703.29,1647.61,,,n/d,data giusta ma nessun avversario simile a 'alacranes de durango'
-27/4/25,honduras - lega nazionale,motagua,real espana,1729.91,1645.56,,,n/d,nessuna partita con quella data sulla pagina
+27/4/25,honduras - lega nazionale,motagua,real espana,1729.91,1645.56,,,n/d,data giusta ma nessun avversario simile a 'real espana'
 27/4/25,Cina - 2 divisione,taian tiankuang,Lanzhou longyuan athletic,1267.42,1149.73,,,n/d,data giusta ma nessun avversario simile a 'Lanzhou longyuan athletic'
 27/4/25,Argentina - nacional b,temperley,estidiantes rio cuarto,1668.08,1621.69,,,n/d,data giusta ma nessun avversario simile a 'estidiantes rio cuarto'
-28/4/25,serbia - super liga,fk zelenicar pancevo,radnicki nis,1713.38,1641.54,,,n/d,nessuna partita con quella data sulla pagina
+28/4/25,serbia - super liga,fk zelenicar pancevo,radnicki nis,1713.38,1641.54,,,n/d,data giusta ma nessun avversario simile a 'radnicki nis'
 29/4/25,argentina - liga profesional,estudiantes lp,ca tigre,1933.44,1817.32,,,n/d,data giusta ma nessun avversario simile a 'ca tigre'
 30/4/25,argentina - primera b metropolitana,sportivo italiano,cs dock sud,1548.27,1426.02,,,n/d,nessuna partita con quella data sulla pagina
 1/5/25,colombia - primera b,real cartagena,atletico huila,1635.56,1580.6,,,n/d,nessuna partita con quella data sulla pagina
 1/5/25,Austria - landesliga,usk anif,salzburger ak,1408.18,1321.63,,,n/d,nessuna partita con quella data sulla pagina
-3/5/25,colombia - primera a,la equidad,alianza,1719.3,1598.88,,,n/d,nessuna partita con quella data sulla pagina
+3/5/25,colombia - primera a,la equidad,alianza,1719.3,1598.88,,,n/d,data giusta ma nessun avversario simile a 'alianza'
 3/5/25,costa rica - primera division,sporting san jose,ad san carlos,1650.52,1559.12,,,n/d,nessuna partita con quella data sulla pagina
 3/5/25,Bulgaria - parva liga,cherno more varna,arda kardzhali,1941.92,1828.67,1,1,bassa,rating diverso di 155.6 punti totali - verificare a mano
 6/5/25,Argentina - nacional b,defensores de belgrano,club atletico mitre,1682.09,1540.72,,,n/d,nessuna partita con quella data sulla pagina
-7/5/25,kuwait - division 1,burgan sc,salibikhaet sc,1401.8,1342.76,,,n/d,data giusta ma nessun avversario simile a 'salibikhaet sc'
+7/5/25,kuwait - division 1,burgan sc,salibikhaet sc,1401.8,1342.76,,,n/d,nessuna partita con quella data sulla pagina
 7/5/25,marocco - gnf 2,wydad fes,stade marocain du rabat,1514.04,1479.75,,,n/d,nessuna partita con quella data sulla pagina
 9/5/25,turchia - super lig,gaziantep fk,alanyaspor,1967.43,1940.13,0,1,bassa,rating diverso di 77.0 punti totali - verificare a mano
 10/5/25,australia - a league,Western Sydney ,Melbourne victory,1932.78,1887.81,,,n/d,data giusta ma nessun avversario simile a 'Melbourne victory'
@@ -411,76 +411,76 @@ data,torneo,home,away,elo_h,elo_a,gol_home,gol_away,match_confidence,match_note
 11/5/25,Indonesia - liga 1,arema fc,persik kediri,1685.56,1636.59,,,n/d,data giusta ma nessun avversario simile a 'persik kediri'
 11/5/25,cina - 2 divisione,guangxi hengchen,wenzhou fc,1482.39,1366.38,,,n/d,nessuna partita con quella data sulla pagina
 11/5/25,kuwait - campionato,al qadsia sc,al fahaheel sc,1679.05,1585.79,,,n/d,data giusta ma nessun avversario simile a 'al fahaheel sc'
-11/5/25,croazia - hnl,istra 1961,nk varazdin,1917.49,1805.56,0,0,bassa,rating diverso di 39.2 punti totali - verificare a mano
+11/5/25,croazia - hnl,istra 1961,nk varazdin,1917.49,1805.56,0,0,media,rating diverso di 39.2 punti (plausibile pre/post match)
 12/5/25,eau - premier league,baniyas sc,khor fakkan,1679.37,1654.25,,,n/d,nessuna partita con quella data sulla pagina
 15/5/25,panama - lpf,Ca independiente de la chorrera,Tauro fc,1621.03,1583.78,,,n/d,nessuna partita con quella data sulla pagina
 17/5/25,portogallo - segunda liga,FC porto b,Benfica b,1778.85,1757.56,,,n/d,data giusta ma nessun avversario simile a 'Benfica b'
-17/5/25,germania - lega 3,vfl osnabruck,verl,1961.79,1899.83,,,n/d,data giusta ma nessun avversario simile a 'verl'
-17/5/25,romania - liga 1,fcsb,cs u craiova,2083.79,2039.7,,,n/d,nessuna partita con quella data sulla pagina
-18/5/25,corea del sud - k-league 1,suwon fc,daejeon hana citizen,1838.65,1831.97,,,n/d,nessuna partita con quella data sulla pagina
-18/5/25,kenia - premier league,shabana fc,mara sugar fc,1665.35,1577.46,,,n/d,nessuna partita con quella data sulla pagina
+17/5/25,germania - lega 3,vfl osnabruck,verl,1961.79,1899.83,0,3,bassa,rating diverso di 70.1 punti totali - verificare a mano
+17/5/25,romania - liga 1,fcsb,cs u craiova,2083.79,2039.7,,,n/d,data giusta ma nessun avversario simile a 'cs u craiova'
+18/5/25,corea del sud - k-league 1,suwon fc,daejeon hana citizen,1838.65,1831.97,,,n/d,data giusta ma nessun avversario simile a 'daejeon hana citizen'
+18/5/25,kenia - premier league,shabana fc,mara sugar fc,1665.35,1577.46,,,n/d,data giusta ma nessun avversario simile a 'mara sugar fc'
 18/5/25,danimarca - 2 divisione,fremad amager,middelfart,1721.3,1693.45,,,n/d,data giusta ma nessun avversario simile a 'middelfart'
 14/6/25,brasile - serie b,paysandu,botafogo sp,1762.63,1673.9,,,n/d,nessuna partita con quella data sulla pagina
 22/6/25,cina - 1 divisione,nanjing city,qingdao red lions,1559.09,1443.32,,,n/d,nessuna partita con quella data sulla pagina
-28/6/25,svezia - 1 divisione norra,ifk haninge,assyriska foreningen,1690.74,1651.17,,,n/d,nessuna partita con quella data sulla pagina
+28/6/25,svezia - 1 divisione norra,ifk haninge,assyriska foreningen,1690.74,1651.17,,,n/d,data giusta ma nessun avversario simile a 'assyriska foreningen'
 28/6/25,brasile - campeonato carioca a2,olaria,perolas negras,1630.63,1522.34,,,n/d,nessuna partita con quella data sulla pagina
 28/6/25,brasile - campeonato carioca a3,duque de caxias fc,americano rj,1655.12,1623.09,,,n/d,nessuna partita con quella data sulla pagina
 28/6/25,brasile - campeonato carioca a4,bangu,cabofriense,1589.87,1547.45,,,n/d,nessuna partita con quella data sulla pagina
 28/6/25,brasile - campeonato carioca a5,america rj,sao goncalo ec,1670.35,1534.9,,,n/d,nessuna partita con quella data sulla pagina
-28/6/25,brasile - serie c,maringa,ponte preta,1816.9,1719.69,,,n/d,nessuna partita con quella data sulla pagina
+28/6/25,brasile - serie c,maringa,ponte preta,1816.9,1719.69,,,n/d,data giusta ma nessun avversario simile a 'ponte preta'
 30/6/25,ecuador - ligapro serie a,macara,emelec,1722.71,1663.13,,,n/d,nessuna partita con quella data sulla pagina
 16/08/25,uk - championship,watford,qpr,1911.25,1804.39,,,n/d,data giusta ma nessun avversario simile a 'qpr'
 17/8/25,Romania - liga II,cs concordia chiajna,csm ceahlaul piatra neamt,1673.36,1586.37,,,n/d,nessuna partita con quella data sulla pagina
 5/8/25,Polonia - liga II,rekord bielsko-biala,warta Poznan,1562.78,1496.64,,,n/d,nessuna partita con quella data sulla pagina
-23/8/25,Romania - liga II,csm ceahlaul piatra neamt,cs dinamo bucuresti,1748.55,1597.65,,,n/d,nessuna partita con quella data sulla pagina
+23/8/25,Romania - liga II,csm ceahlaul piatra neamt,cs dinamo bucuresti,1748.55,1597.65,,,n/d,data giusta ma nessun avversario simile a 'cs dinamo bucuresti'
 23/8/25,Indonesia - liga 1,persija jakarta,malut united fc,1746.95,1659.12,,,n/d,nessuna partita con quella data sulla pagina
 23/8/25,Germania - regionalliga,mainz II,stuttgarter kickers,1795.43,1756.67,,,n/d,data giusta ma nessun avversario simile a 'stuttgarter kickers'
 23/8/25,Austria - 2 liga,Austria klagenfurt,sw bregenz,1770.39,1659.63,,,n/d,data giusta ma nessun avversario simile a 'sw bregenz'
 23/8/25,portogallo - segunda liga,torreense,academico viseu,1789.3,1716.13,2,1,bassa,rating diverso di 70.6 punti totali - verificare a mano
-23/8/25,qatar - stars league,umm salal,al-shahaniya sc,1607.32,1589.02,,,n/d,nessuna partita con quella data sulla pagina
-24/8/25,messico - liga mx,cruz azul,toluca,1984.91,1907.55,,,n/d,nessuna partita con quella data sulla pagina
+23/8/25,qatar - stars league,umm salal,al-shahaniya sc,1607.32,1589.02,,,n/d,data giusta ma nessun avversario simile a 'al-shahaniya sc'
+24/8/25,messico - liga mx,cruz azul,toluca,1984.91,1907.55,,,n/d,data giusta ma nessun avversario simile a 'toluca'
 24/8/25,Bulgaria - parva liga,dobrudzha 1919 dobrich,botev vratsa,1689.63,1623.09,,,n/d,nessuna partita con quella data sulla pagina
 30/08/25,uk - league two,barrow,fleetwood town,1814.99,1755.41,,,n/d,nessuna partita con quella data sulla pagina
-30/08/25,germania - lega 3,cottbus,fc ingolstadt,1922.74,1874.74,1,1,bassa,rating diverso di 37.9 punti totali - verificare a mano
+30/08/25,germania - lega 3,cottbus,fc ingolstadt,1922.74,1874.74,1,1,media,rating diverso di 37.9 punti (plausibile pre/post match)
 30/08/25,portogallo - segunda liga,felgueiras 1932,lusitania lourosa,1781.41,1713.75,,,n/d,nessuna partita con quella data sulla pagina
 30/08/25,svezia - superettan,sandvikens if,orebro sk,1862.82,1747.16,,,n/d,data giusta ma nessun avversario simile a 'orebro sk'
 30/08/25,uk - league 2,tranmere,notts county,1866.95,1811.27,,,n/d,data giusta ma nessun avversario simile a 'notts county'
-30/08/25,uk - league 2,shrewsbury,accrington stanley,1747.57,1695.71,,,n/d,nessuna partita con quella data sulla pagina
-30/08/25,uk - league 1,exeter,peterborough,1862.69,1803.11,3,0,bassa,rating diverso di 58.3 punti totali - verificare a mano
-30/08/25,uk - championship,millwall,wrexham,2036.04,1947.3,0,2,bassa,rating diverso di 26.5 punti totali - verificare a mano
+30/08/25,uk - league 2,shrewsbury,accrington stanley,1747.57,1695.71,,,n/d,data giusta ma nessun avversario simile a 'accrington stanley'
+30/08/25,uk - league 1,exeter,peterborough,1862.69,1803.11,3,0,media,rating diverso di 58.3 punti (plausibile pre/post match)
+30/08/25,uk - championship,millwall,wrexham,2036.04,1947.3,0,2,media,rating diverso di 26.5 punti (plausibile pre/post match)
 30/08/25,croazia - 2 hnl,karlovac,nk croatia zmijavci,1521.54,1408.48,,,n/d,data giusta ma nessun avversario simile a 'nk croatia zmijavci'
 30/08/25,argentina - primera b italiana,real pilar,sportivo italiano,1593.23,1517.6,,,n/d,data giusta ma nessun avversario simile a 'sportivo italiano'
 30/08/25,messico - liga de expansion,atletico morelia,mineros de zacatecas,1696.29,1661.39,,,n/d,data giusta ma nessun avversario simile a 'mineros de zacatecas'
 31/08/25,Cina - 2 divisione,wuxi wugo,Shenzhen 2028,1548.32,1444.47,,,n/d,nessuna partita con quella data sulla pagina
 31/08/25,portogallo - segunda liga,Sporting b,pacos ferreira,1779.08,1668.06,,,n/d,data giusta ma nessun avversario simile a 'pacos ferreira'
 31/08/25,Italia - serie c,arzignano valchiampo,Virtus verona,1665.53,1559.02,,,n/d,data giusta ma nessun avversario simile a 'Virtus verona'
-31/08/25,Italia - serie c,pianese,carpi,1540.69,1485.73,,,n/d,data giusta ma nessun avversario simile a 'carpi'
-31/08/25,costa rica - segunda,futbol consultants desamparados,fc aserri,1508.09,1440.44,,,n/d,nessuna partita con quella data sulla pagina
-31/08/25,el salvador - clausura,cd hercules,cd cacahuatique,1512.73,1478.56,,,n/d,nessuna partita con quella data sulla pagina
+31/08/25,Italia - serie c,pianese,carpi,1540.69,1485.73,,,n/d,nessuna partita con quella data sulla pagina
+31/08/25,costa rica - segunda,futbol consultants desamparados,fc aserri,1508.09,1440.44,,,n/d,data giusta ma nessun avversario simile a 'fc aserri'
+31/08/25,el salvador - clausura,cd hercules,cd cacahuatique,1512.73,1478.56,,,n/d,data giusta ma nessun avversario simile a 'cd cacahuatique'
 1/9/25,panama - lpf,umecit,sd atletico nacional,1509.74,1454.79,,,n/d,nessuna partita con quella data sulla pagina
 1/9/25,Bulgaria - vtora liga,marek dupnica,pfc minyor pernik,1497.88,1277.87,,,n/d,nessuna partita con quella data sulla pagina
 1/9/25,Argentina - nacional b,agropecuario,almirante brown,1642.86,1540.29,,,n/d,nessuna partita con quella data sulla pagina
-1/9/25,spagna - segunda liga,leganes,deportivo la coruna,1990.19,1930.61,2,2,bassa,rating diverso di 32.2 punti totali - verificare a mano
+1/9/25,spagna - segunda liga,leganes,deportivo la coruna,1990.19,1930.61,2,2,media,rating diverso di 32.2 punti (plausibile pre/post match)
 2/9/25,cile - primera b,universidad de concepcion,deportes recoleta,1579.08,1482.51,,,n/d,nessuna partita con quella data sulla pagina
 2/9/25,Argentina - nacional b,ferro carril oeste,racing de cordoba,1648.04,1603.58,,,n/d,data giusta ma nessun avversario simile a 'racing de cordoba'
 12/9/25,spagna - segunda division,las palmas,real sociedad b,1940.58,1712.84,2,1,bassa,rating diverso di 103.5 punti totali - verificare a mano
 12/9/25,francia - ligue 2,troyes,nancy,1882.95,1803.33,,,n/d,data giusta ma nessun avversario simile a 'nancy'
-12/9/25,irlanda - premier division,bohemians dublin,derry city,1893.01,1809.31,3,4,bassa,rating diverso di 59.2 punti totali - verificare a mano
-12/9/25,portogallo - liga 3,varzim,usc paredes,1669.03,1624.94,,,n/d,nessuna partita con quella data sulla pagina
+12/9/25,irlanda - premier division,bohemians dublin,derry city,1893.01,1809.31,3,4,media,rating diverso di 59.2 punti (plausibile pre/post match)
+12/9/25,portogallo - liga 3,varzim,usc paredes,1669.03,1624.94,,,n/d,data giusta ma nessun avversario simile a 'usc paredes'
 12/9/25,portogallo - primera liga,alverca,cd tondela,1977.57,1935.15,1,0,bassa,rating diverso di 71.0 punti totali - verificare a mano
-13/9/25,indonesia - liga 1,persis solo,persijap jepara,1653.61,1585.95,,,n/d,nessuna partita con quella data sulla pagina
-13/9/25,cechia - 1 liga,banik ostrava,slovan liberec,1960.29,1887.12,0,2,bassa,rating diverso di 44.5 punti totali - verificare a mano
-13/9/25,cechia - 1 liga,fc zlin,dukla praga,1854.63,1793.45,,,n/d,nessuna partita con quella data sulla pagina
-13/9/25,italia - serie a,cagliari,parma,2118.25,2059.29,,,n/d,data giusta ma nessun avversario simile a 'parma'
+13/9/25,indonesia - liga 1,persis solo,persijap jepara,1653.61,1585.95,,,n/d,data giusta ma nessun avversario simile a 'persijap jepara'
+13/9/25,cechia - 1 liga,banik ostrava,slovan liberec,1960.29,1887.12,0,2,media,rating diverso di 44.5 punti (plausibile pre/post match)
+13/9/25,cechia - 1 liga,fc zlin,dukla praga,1854.63,1793.45,,,n/d,data giusta ma nessun avversario simile a 'dukla praga'
+13/9/25,italia - serie a,cagliari,parma,2118.25,2059.29,2,0,media,rating diverso di 33.7 punti (plausibile pre/post match)
 13/9/25,uk - league 2,oldham,bromley,1810.4,1783.62,,,n/d,data giusta ma nessun avversario simile a 'bromley'
-13/9/25,portogallo - liga 3,cd trofense,ad fafe,1676.6,1625.64,,,n/d,nessuna partita con quella data sulla pagina
+13/9/25,portogallo - liga 3,cd trofense,ad fafe,1676.6,1625.64,,,n/d,data giusta ma nessun avversario simile a 'ad fafe'
 13/9/25,portogallo - liga 3,guimaraes b,braga b,1619.66,1595.05,,,n/d,data giusta ma nessun avversario simile a 'braga b'
-14/9/25,brasile - serie a,fluminense,corinthians,2016.62,1901.16,,,n/d,nessuna partita con quella data sulla pagina
-14/9/25,francia - ligue 1,metz,angers,1976.33,1915.15,1,1,bassa,rating diverso di 37.8 punti totali - verificare a mano
+14/9/25,brasile - serie a,fluminense,corinthians,2016.62,1901.16,,,n/d,data giusta ma nessun avversario simile a 'corinthians'
+14/9/25,francia - ligue 1,metz,angers,1976.33,1915.15,1,1,media,rating diverso di 37.8 punti (plausibile pre/post match)
 14/9/25,argentina - torneo a,ca 9 de julio rafaela,ca douglas haig,1577.08,1470.22,,,n/d,nessuna partita con quella data sulla pagina
 14/9/25,argentina - torneo a,argentino mm ,biblioteca atenas,1568.5,1474.86,,,n/d,data giusta ma nessun avversario simile a 'biblioteca atenas'
-14/9/25,argentina - torneo a,cipolletti,olimpo bahia blanca,1619.93,1577.5,,,n/d,nessuna partita con quella data sulla pagina
-14/9/25,argentina - nacional b,patronato parana,quilmes,1652.89,1558.59,,,n/d,nessuna partita con quella data sulla pagina
+14/9/25,argentina - torneo a,cipolletti,olimpo bahia blanca,1619.93,1577.5,,,n/d,data giusta ma nessun avversario simile a 'olimpo bahia blanca'
+14/9/25,argentina - nacional b,patronato parana,quilmes,1652.89,1558.59,,,n/d,data giusta ma nessun avversario simile a 'quilmes'
 14/9/25,spagna - segunda division,granada,leganes,1976.15,1929.5,,,n/d,data giusta ma nessun avversario simile a 'leganes'
-14/9/25,,san franciso fc,sporting san miguelito,1580.94,1513.29,,,n/d,nessuna partita con quella data sulla pagina
-14/9/25,,mazatlan fc,atlas,1754.09,1704.12,,,n/d,nessuna partita con quella data sulla pagina
+14/9/25,,san franciso fc,sporting san miguelito,1580.94,1513.29,,,n/d,data giusta ma nessun avversario simile a 'sporting san miguelito'
+14/9/25,,mazatlan fc,atlas,1754.09,1704.12,,,n/d,data giusta ma nessun avversario simile a 'atlas'
