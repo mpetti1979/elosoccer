@@ -1,0 +1,39 @@
+name: Soccer Rating Results Scraper
+
+on:
+  workflow_dispatch: {}   # si lancia SOLO a mano dal tab "Actions" -> "Run workflow"
+                          # (non e' schedulato: e' un recupero storico una tantum,
+                          # non serve farlo girare ogni giorno)
+
+# Serve per permettere al workflow di fare push dei risultati nel repo
+permissions:
+  contents: write
+
+jobs:
+  scrape-results:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Recupera i risultati storici (gol) da soccer-rating.com
+        run: >
+          python soccer_rating_results.py
+          --input-csv data/db_home_export.csv
+          --output-csv data/db_home_con_gol.csv
+
+      - name: Commit e push dei risultati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/db_home_con_gol.csv
+          git diff --cached --quiet || git commit -m "Recupero risultati storici $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
