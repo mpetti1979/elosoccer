@@ -81,6 +81,28 @@ class MatchRecord:
 class SoccerRatingResultsClient(SoccerRatingClient):
     """Aggiunge il recupero dello storico risultati alla classe esistente."""
 
+    def search_team(self, name: str) -> Optional[str]:
+        """Come il metodo originale, ma con il fallback fuzzy case-insensitive
+        (il tuo db ha i nomi tutto minuscolo, il sito no - senza normalizzare
+        le maiuscole il fuzzy match perde molte squadre che invece esistono)."""
+        if not self.team_index or "_built_at" not in self.team_index:
+            self.build_team_index()
+
+        candidates = [k for k in self.team_index if k != "_built_at"]
+        for c in candidates:
+            if c.lower() == name.lower():
+                return self.team_index[c]
+
+        lower_map = {c.lower(): c for c in candidates}
+        close = get_close_matches(name.lower(), list(lower_map.keys()), n=3, cutoff=0.5)
+        if not close:
+            print(f"  Nessuna squadra trovata per '{name}'.")
+            return None
+        best = lower_map[close[0]]
+        if len(close) > 1:
+            print(f"  Piu' squadre simili a '{name}': {[lower_map[c] for c in close]} -> uso '{best}'.")
+        return self.team_index[best]
+
     def get_team_match_history(self, team_name: str, debug: bool = False) -> list[MatchRecord]:
         url = self.search_team(team_name)
         if not url:
@@ -162,20 +184,27 @@ def find_best_match(target_date: datetime, target_away: str, target_elo_h: float
         return None, "n/d", "nessuna partita con quella data sulla pagina"
 
     # 2) tra quelle stesso giorno, squadra ospite piu' simile per nome
-    away_names = [c.away_team for c in same_day]
-    close = get_close_matches(target_away, away_names, n=1, cutoff=0.6)
+    #    IMPORTANTE: confronto case-insensitive, il tuo db ha i nomi tutti
+    #    minuscoli mentre il sito li mostra con maiuscole/accenti - senza
+    #    normalizzare, il fuzzy match fallisce quasi sempre (bug trovato
+    #    dopo il primo run reale).
+    away_names_lower = {c.away_team.lower(): c.away_team for c in same_day}
+    close = get_close_matches(target_away.lower(), list(away_names_lower.keys()), n=1, cutoff=0.55)
     if not close:
         return None, "n/d", f"data giusta ma nessun avversario simile a '{target_away}'"
 
-    pick = next(c for c in same_day if c.away_team == close[0])
+    pick = next(c for c in same_day if c.away_team == away_names_lower[close[0]])
 
-    # 3) controllo incrociato sui rating: se il rating del sito e' vicino
-    #    (+/- 5 punti) a quello che hai nel db, alta confidenza; altrimenti,
-    #    e' probabile che sia un'altra partita tra le stesse due squadre
-    #    (es. stagioni diverse) -> confidenza bassa, da controllare a mano.
+    # 3) controllo incrociato sui rating come SEGNALE DI SUPPORTO, non filtro
+    #    rigido: il rating sulla tabella del sito potrebbe essere quello
+    #    dopo la partita (post-match), quindi qualche decina di punti di
+    #    scarto e' normale anche per un match corretto. Uso soglie piu'
+    #    larghe e realistiche.
     rating_diff = abs(pick.rating_home - target_elo_h) + abs(pick.rating_away - target_elo_a)
-    if rating_diff <= 5:
+    if rating_diff <= 15:
         return pick, "alta", "rating coincide"
+    elif rating_diff <= 60:
+        return pick, "media", f"rating diverso di {rating_diff:.1f} punti (plausibile pre/post match)"
     return pick, "bassa", f"rating diverso di {rating_diff:.1f} punti totali - verificare a mano"
 
 
