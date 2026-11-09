@@ -2,10 +2,10 @@
   "Juventus Torino": {
     "name": "Juventus Torino",
     "url": "https://www.soccer-rating.com/Juventus-Torino/1593/",
-    "rating_total": 2332.93,
-    "rating_home": 2377.06,
+    "rating_total": 2322.77,
+    "rating_home": 2356.75,
     "rating_away": 2288.79,
-    "fetched_at": "2026-11-08T14:42:49.093602"
+    "fetched_at": "2026-11-09T18:11:08.973465"
   },
   "AC Fiorentina": {
     "name": "AC Fiorentina",
@@ -13,6 +13,6 @@
     "rating_total": 2179.33,
     "rating_home": 2223.69,
     "rating_away": 2134.97,
-    "fetched_at": "2026-11-08T14:42:54.764387"
+    "fetched_at": "2026-11-09T18:11:15.132285"
   }
 }
